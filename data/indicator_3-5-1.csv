@@ -1,541 +1,1108 @@
 Year,Substance,Age,Sex,Ethnic group,Disability status,Observation status,Unit measure,Value
-2016/17,,,,,,Undefined,Number of individuals,279793.0
-2016/17,Opiate,,,,,Undefined,Number of individuals,146536.0
-2016/17,Non-opiate only,,,,,Undefined,Number of individuals,24561.0
-2016/17,Non-opiate and alcohol,,,,,Undefined,Number of individuals,28242.0
-2016/17,Alcohol only,,,,,Undefined,Number of individuals,80454.0
-2016/17,,18,,,,Undefined,Number of individuals,2171.0
-2016/17,,19,,,,Undefined,Number of individuals,1778.0
-2016/17,,20 to 24,,,,Undefined,Number of individuals,13604.0
-2016/17,,25 to 29,,,,Undefined,Number of individuals,26895.0
-2016/17,,30 to 34,,,,Undefined,Number of individuals,41295.0
-2016/17,,35 to 39,,,,Undefined,Number of individuals,50816.0
-2016/17,,40 to 44,,,,Undefined,Number of individuals,47378.0
-2016/17,,45 to 49,,,,Undefined,Number of individuals,39908.0
-2016/17,,50 to 54,,,,Undefined,Number of individuals,27625.0
-2016/17,,55 to 59,,,,Undefined,Number of individuals,15009.0
-2016/17,,60 to 64,,,,Undefined,Number of individuals,7718.0
-2016/17,,65 to 69,,,,Undefined,Number of individuals,3631.0
-2016/17,,70+,,,,Undefined,Number of individuals,1965.0
-2016/17,Opiate,18,,,,Undefined,Number of individuals,145.0
-2016/17,Opiate,19,,,,Undefined,Number of individuals,194.0
-2016/17,Opiate,20 to 24,,,,Undefined,Number of individuals,3424.0
-2016/17,Opiate,25 to 29,,,,Undefined,Number of individuals,11797.0
-2016/17,Opiate,30 to 34,,,,Undefined,Number of individuals,24380.0
-2016/17,Opiate,35 to 39,,,,Undefined,Number of individuals,33621.0
-2016/17,Opiate,40 to 44,,,,Undefined,Number of individuals,29825.0
-2016/17,Opiate,45 to 49,,,,Undefined,Number of individuals,22083.0
-2016/17,Opiate,50 to 54,,,,Undefined,Number of individuals,12726.0
-2016/17,Opiate,55 to 59,,,,Undefined,Number of individuals,5185.0
-2016/17,Opiate,60 to 64,,,,Undefined,Number of individuals,2235.0
-2016/17,Opiate,65 to 69,,,,Undefined,Number of individuals,730.0
-2016/17,Opiate,70+,,,,Undefined,Number of individuals,191.0
-2016/17,Non-opiate only,18,,,,Undefined,Number of individuals,1057.0
-2016/17,Non-opiate only,19,,,,Undefined,Number of individuals,878.0
-2016/17,Non-opiate only,20 to 24,,,,Undefined,Number of individuals,4781.0
-2016/17,Non-opiate only,25 to 29,,,,Undefined,Number of individuals,5227.0
-2016/17,Non-opiate only,30 to 34,,,,Undefined,Number of individuals,4255.0
-2016/17,Non-opiate only,35 to 39,,,,Undefined,Number of individuals,3140.0
-2016/17,Non-opiate only,40 to 44,,,,Undefined,Number of individuals,2072.0
-2016/17,Non-opiate only,45 to 49,,,,Undefined,Number of individuals,1439.0
-2016/17,Non-opiate only,50 to 54,,,,Undefined,Number of individuals,827.0
-2016/17,Non-opiate only,55 to 59,,,,Undefined,Number of individuals,387.0
-2016/17,Non-opiate only,60 to 64,,,,Undefined,Number of individuals,180.0
-2016/17,Non-opiate only,65 to 69,,,,Undefined,Number of individuals,137.0
-2016/17,Non-opiate only,70+,,,,Undefined,Number of individuals,181.0
-2016/17,Non-opiate and alcohol,18,,,,Undefined,Number of individuals,751.0
-2016/17,Non-opiate and alcohol,19,,,,Undefined,Number of individuals,500.0
-2016/17,Non-opiate and alcohol,20 to 24,,,,Undefined,Number of individuals,3320.0
-2016/17,Non-opiate and alcohol,25 to 29,,,,Undefined,Number of individuals,4904.0
-2016/17,Non-opiate and alcohol,30 to 34,,,,Undefined,Number of individuals,5067.0
-2016/17,Non-opiate and alcohol,35 to 39,,,,Undefined,Number of individuals,4257.0
-2016/17,Non-opiate and alcohol,40 to 44,,,,Undefined,Number of individuals,3534.0
-2016/17,Non-opiate and alcohol,45 to 49,,,,Undefined,Number of individuals,2882.0
-2016/17,Non-opiate and alcohol,50 to 54,,,,Undefined,Number of individuals,1805.0
-2016/17,Non-opiate and alcohol,55 to 59,,,,Undefined,Number of individuals,836.0
-2016/17,Non-opiate and alcohol,60 to 64,,,,Undefined,Number of individuals,282.0
-2016/17,Non-opiate and alcohol,65 to 69,,,,Undefined,Number of individuals,67.0
-2016/17,Non-opiate and alcohol,70+,,,,Undefined,Number of individuals,37.0
-2016/17,Alcohol only,18,,,,Undefined,Number of individuals,218.0
-2016/17,Alcohol only,19,,,,Undefined,Number of individuals,206.0
-2016/17,Alcohol only,20 to 24,,,,Undefined,Number of individuals,2079.0
-2016/17,Alcohol only,25 to 29,,,,Undefined,Number of individuals,4967.0
-2016/17,Alcohol only,30 to 34,,,,Undefined,Number of individuals,7593.0
-2016/17,Alcohol only,35 to 39,,,,Undefined,Number of individuals,9798.0
-2016/17,Alcohol only,40 to 44,,,,Undefined,Number of individuals,11947.0
-2016/17,Alcohol only,45 to 49,,,,Undefined,Number of individuals,13504.0
-2016/17,Alcohol only,50 to 54,,,,Undefined,Number of individuals,12267.0
-2016/17,Alcohol only,55 to 59,,,,Undefined,Number of individuals,8601.0
-2016/17,Alcohol only,60 to 64,,,,Undefined,Number of individuals,5021.0
-2016/17,Alcohol only,65 to 69,,,,Undefined,Number of individuals,2697.0
-2016/17,Alcohol only,70+,,,,Undefined,Number of individuals,1556.0
-2016/17,,,Male,,,Undefined,Number of individuals,194304.0
-2016/17,Opiate,,Male,,,Undefined,Number of individuals,106766.0
-2016/17,Non-opiate only,,Male,,,Undefined,Number of individuals,17983.0
-2016/17,Non-opiate and alcohol,,Male,,,Undefined,Number of individuals,20801.0
-2016/17,Alcohol only,,Male,,,Undefined,Number of individuals,48754.0
-2016/17,,,Female,,,Undefined,Number of individuals,85489.0
-2016/17,Opiate,,Female,,,Undefined,Number of individuals,39770.0
-2016/17,Non-opiate only,,Female,,,Undefined,Number of individuals,6578.0
-2016/17,Non-opiate and alcohol,,Female,,,Undefined,Number of individuals,7441.0
-2016/17,Alcohol only,,Female,,,Undefined,Number of individuals,31700.0
-2016/17,,,,White British,,Undefined,Number of individuals,231949.0
-2016/17,,,,Other White,,Undefined,Number of individuals,10515.0
-2016/17,,,,,,Undefined,Number of individuals,4843.0
-2016/17,,,,White Irish,,Undefined,Number of individuals,3220.0
-2016/17,,,,Indian,,Undefined,Number of individuals,3344.0
-2016/17,,,,Caribbean,,Undefined,Number of individuals,2928.0
-2016/17,,,,White and Black Caribbean,,Undefined,Number of individuals,2518.0
-2016/17,,,,Pakistani,,Undefined,Number of individuals,2468.0
-2016/17,,,,Other Asian,,Undefined,Number of individuals,2380.0
-2016/17,,,,,,Undefined,Number of individuals,2097.0
-2016/17,,,,Other Black,,Undefined,Number of individuals,1863.0
-2016/17,,,,African,,Undefined,Number of individuals,1755.0
-2016/17,,,,Other Mixed,,Undefined,Number of individuals,1503.0
-2016/17,,,,Bangladeshi,,Undefined,Number of individuals,1313.0
-2016/17,,,,White and Asian,,Undefined,Number of individuals,741.0
-2016/17,,,,White and Black African,,Undefined,Number of individuals,572.0
-2016/17,,,,Chinese,,Undefined,Number of individuals,78.0
-2016/17,,,,,,Undefined,Number of individuals,2.0
-2016/17,Opiate,,,White British,,Undefined,Number of individuals,121338.0
-2016/17,Opiate,,,Other White,,Undefined,Number of individuals,5784.0
-2016/17,Opiate,,,,,Undefined,Number of individuals,1768.0
-2016/17,Opiate,,,White Irish,,Undefined,Number of individuals,1460.0
-2016/17,Opiate,,,Indian,,Undefined,Number of individuals,1676.0
-2016/17,Opiate,,,Caribbean,,Undefined,Number of individuals,1233.0
-2016/17,Opiate,,,White and Black Caribbean,,Undefined,Number of individuals,1293.0
-2016/17,Opiate,,,Pakistani,,Undefined,Number of individuals,1614.0
-2016/17,Opiate,,,Other Asian,,Undefined,Number of individuals,1423.0
-2016/17,Opiate,,,,,Undefined,Number of individuals,1243.0
-2016/17,Opiate,,,Other black,,Undefined,Number of individuals,795.0
-2016/17,Opiate,,,African,,Undefined,Number of individuals,414.0
-2016/17,Opiate,,,Other mixed,,Undefined,Number of individuals,695.0
-2016/17,Opiate,,,Bangladeshi,,Undefined,Number of individuals,979.0
-2016/17,Opiate,,,White and Asian,,Undefined,Number of individuals,418.0
-2016/17,Opiate,,,White and Black African,,Undefined,Number of individuals,262.0
-2016/17,Opiate,,,Chinese,,Undefined,Number of individuals,40.0
-2016/17,Opiate,,,,,Undefined,Number of individuals,2.0
-2016/17,Non-opiate only,,,White British,,Undefined,Number of individuals,19381.0
-2016/17,Non-opiate only,,,Other White,,Undefined,Number of individuals,829.0
-2016/17,Non-opiate only,,,,,Undefined,Number of individuals,591.0
-2016/17,Non-opiate only,,,White Irish,,Undefined,Number of individuals,191.0
-2016/17,Non-opiate only,,,Indian,,Undefined,Number of individuals,179.0
-2016/17,Non-opiate only,,,Caribbean,,Undefined,Number of individuals,661.0
-2016/17,Non-opiate only,,,White and Black Caribbean,,Undefined,Number of individuals,420.0
-2016/17,Non-opiate only,,,Pakistani,,Undefined,Number of individuals,363.0
-2016/17,Non-opiate only,,,Other Asian,,Undefined,Number of individuals,243.0
-2016/17,Non-opiate only,,,,,Undefined,Number of individuals,223.0
-2016/17,Non-opiate only,,,Other Black,,Undefined,Number of individuals,346.0
-2016/17,Non-opiate only,,,African,,Undefined,Number of individuals,347.0
-2016/17,Non-opiate only,,,Other Mixed,,Undefined,Number of individuals,263.0
-2016/17,Non-opiate only,,,Bangladeshi,,Undefined,Number of individuals,148.0
-2016/17,Non-opiate only,,,White and Asian,,Undefined,Number of individuals,97.0
-2016/17,Non-opiate only,,,White and Black African,,Undefined,Number of individuals,80.0
-2016/17,Non-opiate only,,,Chinese,,Undefined,Number of individuals,9.0
-2016/17,Non-opiate only,,,,,Undefined,Number of individuals,0.0
-2016/17,Non-opiate and alcohol,,,White British,,Undefined,Number of individuals,23137.0
-2016/17,Non-opiate and alcohol,,,Other White,,Undefined,Number of individuals,838.0
-2016/17,Non-opiate and alcohol,,,,,Undefined,Number of individuals,556.0
-2016/17,Non-opiate and alcohol,,,White Irish,,Undefined,Number of individuals,332.0
-2016/17,Non-opiate and alcohol,,,Indian,,Undefined,Number of individuals,247.0
-2016/17,Non-opiate and alcohol,,,Caribbean,,Undefined,Number of individuals,507.0
-2016/17,Non-opiate and alcohol,,,White and Black Caribbean,,Undefined,Number of individuals,418.0
-2016/17,Non-opiate and alcohol,,,Pakistani,,Undefined,Number of individuals,179.0
-2016/17,Non-opiate and alcohol,,,Other Asian,,Undefined,Number of individuals,147.0
-2016/17,Non-opiate and alcohol,,,,,Undefined,Number of individuals,174.0
-2016/17,Non-opiate and alcohol,,,Other Black,,Undefined,Number of individuals,334.0
-2016/17,Non-opiate and alcohol,,,African,,Undefined,Number of individuals,368.0
-2016/17,Non-opiate and alcohol,,,Other Mixed,,Undefined,Number of individuals,221.0
-2016/17,Non-opiate and alcohol,,,Bangladeshi,,Undefined,Number of individuals,84.0
-2016/17,Non-opiate and alcohol,,,White and Asian,,Undefined,Number of individuals,89.0
-2016/17,Non-opiate and alcohol,,,White and Black African,,Undefined,Number of individuals,107.0
-2016/17,Non-opiate and alcohol,,,Chinese,,Undefined,Number of individuals,7.0
-2016/17,Non-opiate and alcohol,,,,,Undefined,Number of individuals,0.0
-2016/17,Alcohol only,,,White British,,Undefined,Number of individuals,68093.0
-2016/17,Alcohol only,,,Other White,,Undefined,Number of individuals,3064.0
-2016/17,Alcohol only,,,,,Undefined,Number of individuals,1928.0
-2016/17,Alcohol only,,,White Irish,,Undefined,Number of individuals,1237.0
-2016/17,Alcohol only,,,Indian,,Undefined,Number of individuals,1242.0
-2016/17,Alcohol only,,,Caribbean,,Undefined,Number of individuals,527.0
-2016/17,Alcohol only,,,White and Black Caribbean,,Undefined,Number of individuals,387.0
-2016/17,Alcohol only,,,Pakistani,,Undefined,Number of individuals,312.0
-2016/17,Alcohol only,,,Other Asian,,Undefined,Number of individuals,567.0
-2016/17,Alcohol only,,,,,Undefined,Number of individuals,457.0
-2016/17,Alcohol only,,,Other Black,,Undefined,Number of individuals,388.0
-2016/17,Alcohol only,,,African,,Undefined,Number of individuals,626.0
-2016/17,Alcohol only,,,Other Mixed,,Undefined,Number of individuals,324.0
-2016/17,Alcohol only,,,Bangladeshi,,Undefined,Number of individuals,102.0
-2016/17,Alcohol only,,,White and Asian,,Undefined,Number of individuals,137.0
-2016/17,Alcohol only,,,White and Black African,,Undefined,Number of individuals,123.0
-2016/17,Alcohol only,,,Chinese,,Undefined,Number of individuals,22.0
-2016/17,Alcohol only,,,,,Undefined,Number of individuals,0.0
-2016/17,,,,,No limiting long-term illness or disability,Undefined,Number of individuals,86608.0
-2016/17,,,,,Limiting long-term illness or disability,Undefined,Number of individuals,23492.0
-2016/17,Opiate,,,,No limiting long-term illness or disability,Undefined,Number of individuals,29023.0
-2016/17,Opiate,,,,Limiting long-term illness or disability,Undefined,Number of individuals,7773.0
-2016/17,Non-opiate only,,,,No limiting long-term illness or disability,Undefined,Number of individuals,11114.0
-2016/17,Non-opiate only,,,,Limiting long-term illness or disability,Undefined,Number of individuals,2784.0
-2016/17,Non-opiate and alcohol,,,,No limiting long-term illness or disability,Undefined,Number of individuals,12084.0
-2016/17,Non-opiate and alcohol,,,,Limiting long-term illness or disability,Undefined,Number of individuals,3314.0
-2016/17,Alcohol only,,,,No limiting long-term illness or disability,Undefined,Number of individuals,34387.0
-2016/17,Alcohol only,,,,Limiting long-term illness or disability,Undefined,Number of individuals,9621.0
-2017/18,,,,,,Undefined,Number of individuals,268390.0
-2017/18,Opiate,,,,,Undefined,Number of individuals,141189.0
-2017/18,Non-opiate only,,,,,Undefined,Number of individuals,23730.0
-2017/18,Non-opiate and alcohol,,,,,Undefined,Number of individuals,27684.0
-2017/18,Alcohol only,,,,,Undefined,Number of individuals,75787.0
-2017/18,,18,,,,Undefined,Number of individuals,1989.0
-2017/18,,19,,,,Undefined,Number of individuals,1672.0
-2017/18,,20 to 24,,,,Undefined,Number of individuals,12079.0
-2017/18,,25 to 29,,,,Undefined,Number of individuals,24329.0
-2017/18,,30 to 34,,,,Undefined,Number of individuals,37694.0
-2017/18,,35 to 39,,,,Undefined,Number of individuals,49297.0
-2017/18,,40 to 44,,,,Undefined,Number of individuals,45123.0
-2017/18,,45 to 49,,,,Undefined,Number of individuals,39701.0
-2017/18,,50 to 54,,,,Undefined,Number of individuals,27811.0
-2017/18,,55 to 59,,,,Undefined,Number of individuals,15524.0
-2017/18,,60 to 64,,,,Undefined,Number of individuals,7571.0
-2017/18,,65 to 69,,,,Undefined,Number of individuals,3610.0
-2017/18,,70+,,,,Undefined,Number of individuals,1990.0
-2017/18,Opiate,18,,,,Undefined,Number of individuals,116.0
-2017/18,Opiate,19,,,,Undefined,Number of individuals,184.0
-2017/18,Opiate,20 to 24,,,,Undefined,Number of individuals,2772.0
-2017/18,Opiate,25 to 29,,,,Undefined,Number of individuals,10114.0
-2017/18,Opiate,30 to 34,,,,Undefined,Number of individuals,21067.0
-2017/18,Opiate,35 to 39,,,,Undefined,Number of individuals,32263.0
-2017/18,Opiate,40 to 44,,,,Undefined,Number of individuals,28968.0
-2017/18,Opiate,45 to 49,,,,Undefined,Number of individuals,22876.0
-2017/18,Opiate,50 to 54,,,,Undefined,Number of individuals,13612.0
-2017/18,Opiate,55 to 59,,,,Undefined,Number of individuals,5784.0
-2017/18,Opiate,60 to 64,,,,Undefined,Number of individuals,2350.0
-2017/18,Opiate,65 to 69,,,,Undefined,Number of individuals,850.0
-2017/18,Opiate,70+,,,,Undefined,Number of individuals,233.0
-2017/18,Non-opiate only,18,,,,Undefined,Number of individuals,948.0
-2017/18,Non-opiate only,19,,,,Undefined,Number of individuals,829.0
-2017/18,Non-opiate only,20 to 24,,,,Undefined,Number of individuals,4361.0
-2017/18,Non-opiate only,25 to 29,,,,Undefined,Number of individuals,5001.0
-2017/18,Non-opiate only,30 to 34,,,,Undefined,Number of individuals,4337.0
-2017/18,Non-opiate only,35 to 39,,,,Undefined,Number of individuals,3234.0
-2017/18,Non-opiate only,40 to 44,,,,Undefined,Number of individuals,1987.0
-2017/18,Non-opiate only,45 to 49,,,,Undefined,Number of individuals,1388.0
-2017/18,Non-opiate only,50 to 54,,,,Undefined,Number of individuals,827.0
-2017/18,Non-opiate only,55 to 59,,,,Undefined,Number of individuals,408.0
-2017/18,Non-opiate only,60 to 64,,,,Undefined,Number of individuals,165.0
-2017/18,Non-opiate only,65 to 69,,,,Undefined,Number of individuals,113.0
-2017/18,Non-opiate only,70+,,,,Undefined,Number of individuals,132.0
-2017/18,Non-opiate and alcohol,18,,,,Undefined,Number of individuals,721.0
-2017/18,Non-opiate and alcohol,19,,,,Undefined,Number of individuals,483.0
-2017/18,Non-opiate and alcohol,20 to 24,,,,Undefined,Number of individuals,3122.0
-2017/18,Non-opiate and alcohol,25 to 29,,,,Undefined,Number of individuals,4698.0
-2017/18,Non-opiate and alcohol,30 to 34,,,,Undefined,Number of individuals,5106.0
-2017/18,Non-opiate and alcohol,35 to 39,,,,Undefined,Number of individuals,4431.0
-2017/18,Non-opiate and alcohol,40 to 44,,,,Undefined,Number of individuals,3288.0
-2017/18,Non-opiate and alcohol,45 to 49,,,,Undefined,Number of individuals,2813.0
-2017/18,Non-opiate and alcohol,50 to 54,,,,Undefined,Number of individuals,1770.0
-2017/18,Non-opiate and alcohol,55 to 59,,,,Undefined,Number of individuals,869.0
-2017/18,Non-opiate and alcohol,60 to 64,,,,Undefined,Number of individuals,295.0
-2017/18,Non-opiate and alcohol,65 to 69,,,,Undefined,Number of individuals,68.0
-2017/18,Non-opiate and alcohol,70+,,,,Undefined,Number of individuals,20.0
-2017/18,Alcohol only,18,,,,Undefined,Number of individuals,204.0
-2017/18,Alcohol only,19,,,,Undefined,Number of individuals,176.0
-2017/18,Alcohol only,20 to 24,,,,Undefined,Number of individuals,1824.0
-2017/18,Alcohol only,25 to 29,,,,Undefined,Number of individuals,4516.0
-2017/18,Alcohol only,30 to 34,,,,Undefined,Number of individuals,7184.0
-2017/18,Alcohol only,35 to 39,,,,Undefined,Number of individuals,9369.0
-2017/18,Alcohol only,40 to 44,,,,Undefined,Number of individuals,10880.0
-2017/18,Alcohol only,45 to 49,,,,Undefined,Number of individuals,12624.0
-2017/18,Alcohol only,50 to 54,,,,Undefined,Number of individuals,11602.0
-2017/18,Alcohol only,55 to 59,,,,Undefined,Number of individuals,8463.0
-2017/18,Alcohol only,60 to 64,,,,Undefined,Number of individuals,4761.0
-2017/18,Alcohol only,65 to 69,,,,Undefined,Number of individuals,2579.0
-2017/18,Alcohol only,70+,,,,Undefined,Number of individuals,1605.0
-2017/18,,,Male,,,Undefined,Number of individuals,185870.0
-2017/18,Opiate,,Male,,,Undefined,Number of individuals,102803.0
-2017/18,Non-opiate only,,Male,,,Undefined,Number of individuals,17120.0
-2017/18,Non-opiate and alcohol,,Male,,,Undefined,Number of individuals,20279.0
-2017/18,Alcohol only,,Male,,,Undefined,Number of individuals,45668.0
-2017/18,,,Female,,,Undefined,Number of individuals,82520.0
-2017/18,Opiate,,Female,,,Undefined,Number of individuals,38386.0
-2017/18,Non-opiate only,,Female,,,Undefined,Number of individuals,6610.0
-2017/18,Non-opiate and alcohol,,Female,,,Undefined,Number of individuals,7405.0
-2017/18,Alcohol only,,Female,,,Undefined,Number of individuals,30119.0
-2017/18,,,,White British,,Undefined,Number of individuals,222775.0
-2017/18,,,,Other White,,Undefined,Number of individuals,10347.0
-2017/18,,,,,,Undefined,Number of individuals,4692.0
-2017/18,,,,White Irish,,Undefined,Number of individuals,3128.0
-2017/18,,,,Indian,,Undefined,Number of individuals,3324.0
-2017/18,,,,Caribbean,,Undefined,Number of individuals,2738.0
-2017/18,,,,White and Black Caribbean,,Undefined,Number of individuals,2443.0
-2017/18,,,,Pakistani,,Undefined,Number of individuals,2307.0
-2017/18,,,,Other Asian,,Undefined,Number of individuals,2270.0
-2017/18,,,,,,Undefined,Number of individuals,2028.0
-2017/18,,,,Other Black,,Undefined,Number of individuals,1794.0
-2017/18,,,,African,,Undefined,Number of individuals,1678.0
-2017/18,,,,Other Mixed,,Undefined,Number of individuals,1557.0
-2017/18,,,,Bangladeshi,,Undefined,Number of individuals,1252.0
-2017/18,,,,White and Asian,,Undefined,Number of individuals,767.0
-2017/18,,,,White and Black African,,Undefined,Number of individuals,593.0
-2017/18,,,,Chinese,,Undefined,Number of individuals,86.0
-2017/18,,,,,,Undefined,Number of individuals,0.0
-2017/18,Opiate,,,White British,,Undefined,Number of individuals,117280.0
-2017/18,Opiate,,,Other White,,Undefined,Number of individuals,5579.0
-2017/18,Opiate,,,,,Undefined,Number of individuals,1782.0
-2017/18,Opiate,,,White Irish,,Undefined,Number of individuals,1420.0
-2017/18,Opiate,,,Indian,,Undefined,Number of individuals,1593.0
-2017/18,Opiate,,,Caribbean,,Undefined,Number of individuals,1185.0
-2017/18,Opiate,,,White and Black Caribbean,,Undefined,Number of individuals,1232.0
-2017/18,Opiate,,,Pakistani,,Undefined,Number of individuals,1514.0
-2017/18,Opiate,,,Other Asian,,Undefined,Number of individuals,1349.0
-2017/18,Opiate,,,,,Undefined,Number of individuals,1208.0
-2017/18,Opiate,,,Other black,,Undefined,Number of individuals,779.0
-2017/18,Opiate,,,African,,Undefined,Number of individuals,401.0
-2017/18,Opiate,,,Other mixed,,Undefined,Number of individuals,742.0
-2017/18,Opiate,,,Bangladeshi,,Undefined,Number of individuals,928.0
-2017/18,Opiate,,,White and Asian,,Undefined,Number of individuals,415.0
-2017/18,Opiate,,,White and Black African,,Undefined,Number of individuals,277.0
-2017/18,Opiate,,,Chinese,,Undefined,Number of individuals,38.0
-2017/18,Opiate,,,,,Undefined,Number of individuals,0.0
-2017/18,Non-opiate only,,,White British,,Undefined,Number of individuals,18762.0
-2017/18,Non-opiate only,,,Other White,,Undefined,Number of individuals,851.0
-2017/18,Non-opiate only,,,,,Undefined,Number of individuals,645.0
-2017/18,Non-opiate only,,,White Irish,,Undefined,Number of individuals,179.0
-2017/18,Non-opiate only,,,Indian,,Undefined,Number of individuals,191.0
-2017/18,Non-opiate only,,,Caribbean,,Undefined,Number of individuals,571.0
-2017/18,Non-opiate only,,,White and Black Caribbean,,Undefined,Number of individuals,393.0
-2017/18,Non-opiate only,,,Pakistani,,Undefined,Number of individuals,347.0
-2017/18,Non-opiate only,,,Other Asian,,Undefined,Number of individuals,219.0
-2017/18,Non-opiate only,,,,,Undefined,Number of individuals,215.0
-2017/18,Non-opiate only,,,Other Black,,Undefined,Number of individuals,332.0
-2017/18,Non-opiate only,,,African,,Undefined,Number of individuals,295.0
-2017/18,Non-opiate only,,,Other Mixed,,Undefined,Number of individuals,261.0
-2017/18,Non-opiate only,,,Bangladeshi,,Undefined,Number of individuals,137.0
-2017/18,Non-opiate only,,,White and Asian,,Undefined,Number of individuals,90.0
-2017/18,Non-opiate only,,,White and Black African,,Undefined,Number of individuals,102.0
-2017/18,Non-opiate only,,,Chinese,,Undefined,Number of individuals,14.0
-2017/18,Non-opiate only,,,,,Undefined,Number of individuals,0.0
-2017/18,Non-opiate and alcohol,,,White British,,Undefined,Number of individuals,22782.0
-2017/18,Non-opiate and alcohol,,,Other White,,Undefined,Number of individuals,860.0
-2017/18,Non-opiate and alcohol,,,,,Undefined,Number of individuals,549.0
-2017/18,Non-opiate and alcohol,,,White Irish,,Undefined,Number of individuals,355.0
-2017/18,Non-opiate and alcohol,,,Indian,,Undefined,Number of individuals,280.0
-2017/18,Non-opiate and alcohol,,,Caribbean,,Undefined,Number of individuals,490.0
-2017/18,Non-opiate and alcohol,,,White and Black Caribbean,,Undefined,Number of individuals,416.0
-2017/18,Non-opiate and alcohol,,,Pakistani,,Undefined,Number of individuals,169.0
-2017/18,Non-opiate and alcohol,,,Other Asian,,Undefined,Number of individuals,153.0
-2017/18,Non-opiate and alcohol,,,,,Undefined,Number of individuals,163.0
-2017/18,Non-opiate and alcohol,,,Other Black,,Undefined,Number of individuals,293.0
-2017/18,Non-opiate and alcohol,,,African,,Undefined,Number of individuals,343.0
-2017/18,Non-opiate and alcohol,,,Other Mixed,,Undefined,Number of individuals,237.0
-2017/18,Non-opiate and alcohol,,,Bangladeshi,,Undefined,Number of individuals,82.0
-2017/18,Non-opiate and alcohol,,,White and Asian,,Undefined,Number of individuals,100.0
-2017/18,Non-opiate and alcohol,,,White and Black African,,Undefined,Number of individuals,80.0
-2017/18,Non-opiate and alcohol,,,Chinese,,Undefined,Number of individuals,8.0
-2017/18,Non-opiate and alcohol,,,,,Undefined,Number of individuals,0.0
-2017/18,Alcohol only,,,White British,,Undefined,Number of individuals,63951.0
-2017/18,Alcohol only,,,Other White,,Undefined,Number of individuals,3057.0
-2017/18,Alcohol only,,,,,Undefined,Number of individuals,1716.0
-2017/18,Alcohol only,,,White Irish,,Undefined,Number of individuals,1174.0
-2017/18,Alcohol only,,,Indian,,Undefined,Number of individuals,1260.0
-2017/18,Alcohol only,,,Caribbean,,Undefined,Number of individuals,492.0
-2017/18,Alcohol only,,,White and Black Caribbean,,Undefined,Number of individuals,402.0
-2017/18,Alcohol only,,,Pakistani,,Undefined,Number of individuals,277.0
-2017/18,Alcohol only,,,Other Asian,,Undefined,Number of individuals,549.0
-2017/18,Alcohol only,,,,,Undefined,Number of individuals,442.0
-2017/18,Alcohol only,,,Other Black,,Undefined,Number of individuals,390.0
-2017/18,Alcohol only,,,African,,Undefined,Number of individuals,639.0
-2017/18,Alcohol only,,,Other Mixed,,Undefined,Number of individuals,317.0
-2017/18,Alcohol only,,,Bangladeshi,,Undefined,Number of individuals,105.0
-2017/18,Alcohol only,,,White and Asian,,Undefined,Number of individuals,162.0
-2017/18,Alcohol only,,,White and Black African,,Undefined,Number of individuals,134.0
-2017/18,Alcohol only,,,Chinese,,Undefined,Number of individuals,26.0
-2017/18,Alcohol only,,,,,Undefined,Number of individuals,0.0
-2017/18,,,,,No limiting long-term illness or disability,Undefined,Number of individuals,87412.0
-2017/18,,,,,Limiting long-term illness or disability,Undefined,Number of individuals,27041.0
-2017/18,Opiate,,,,No limiting long-term illness or disability,Undefined,Number of individuals,28405.0
-2017/18,Opiate,,,,Limiting long-term illness or disability,Undefined,Number of individuals,9035.0
-2017/18,Non-opiate only,,,,No limiting long-term illness or disability,Undefined,Number of individuals,11228.0
-2017/18,Non-opiate only,,,,Limiting long-term illness or disability,Undefined,Number of individuals,3300.0
-2017/18,Non-opiate and alcohol,,,,No limiting long-term illness or disability,Undefined,Number of individuals,12709.0
-2017/18,Non-opiate and alcohol,,,,Limiting long-term illness or disability,Undefined,Number of individuals,3879.0
-2017/18,Alcohol only,,,,No limiting long-term illness or disability,Undefined,Number of individuals,35070.0
-2017/18,Alcohol only,,,,Limiting long-term illness or disability,Undefined,Number of individuals,10827.0
-2018/19,,,,,,Undefined,Number of individuals,268251.0
-2018/19,Opiate,,,,,Undefined,Number of individuals,139845.0
-2018/19,Non-opiate only,,,,,Undefined,Number of individuals,24253.0
-2018/19,Non-opiate and alcohol,,,,,Undefined,Number of individuals,28598.0
-2018/19,Alcohol only,,,,,Undefined,Number of individuals,75555.0
-2018/19,,18,,,,Undefined,Number of individuals,1921.0
-2018/19,,19,,,,Undefined,Number of individuals,1624.0
-2018/19,,20 to 24,,,,Undefined,Number of individuals,11938.0
-2018/19,,25 to 29,,,,Undefined,Number of individuals,23160.0
-2018/19,,30 to 34,,,,Undefined,Number of individuals,36344.0
-2018/19,,35 to 39,,,,Undefined,Number of individuals,48620.0
-2018/19,,40 to 44,,,,Undefined,Number of individuals,44915.0
-2018/19,,45 to 49,,,,Undefined,Number of individuals,40221.0
-2018/19,,50 to 54,,,,Undefined,Number of individuals,29272.0
-2018/19,,55 to 59,,,,Undefined,Number of individuals,16506.0
-2018/19,,60 to 64,,,,Undefined,Number of individuals,7992.0
-2018/19,,65 to 69,,,,Undefined,Number of individuals,3661.0
-2018/19,,70+,,,,Undefined,Number of individuals,2077.0
-2018/19,Opiate,18,,,,Undefined,Number of individuals,86.0
-2018/19,Opiate,19,,,,Undefined,Number of individuals,180.0
-2018/19,Opiate,20 to 24,,,,Undefined,Number of individuals,2474.0
-2018/19,Opiate,25 to 29,,,,Undefined,Number of individuals,8996.0
-2018/19,Opiate,30 to 34,,,,Undefined,Number of individuals,19077.0
-2018/19,Opiate,35 to 39,,,,Undefined,Number of individuals,31038.0
-2018/19,Opiate,40 to 44,,,,Undefined,Number of individuals,29002.0
-2018/19,Opiate,45 to 49,,,,Undefined,Number of individuals,23673.0
-2018/19,Opiate,50 to 54,,,,Undefined,Number of individuals,14873.0
-2018/19,Opiate,55 to 59,,,,Undefined,Number of individuals,6577.0
-2018/19,Opiate,60 to 64,,,,Undefined,Number of individuals,2620.0
-2018/19,Opiate,65 to 69,,,,Undefined,Number of individuals,970.0
-2018/19,Opiate,70+,,,,Undefined,Number of individuals,279.0
-2018/19,Non-opiate only,18,,,,Undefined,Number of individuals,909.0
-2018/19,Non-opiate only,19,,,,Undefined,Number of individuals,777.0
-2018/19,Non-opiate only,20 to 24,,,,Undefined,Number of individuals,4453.0
-2018/19,Non-opiate only,25 to 29,,,,Undefined,Number of individuals,5015.0
-2018/19,Non-opiate only,30 to 34,,,,Undefined,Number of individuals,4589.0
-2018/19,Non-opiate only,35 to 39,,,,Undefined,Number of individuals,3379.0
-2018/19,Non-opiate only,40 to 44,,,,Undefined,Number of individuals,2113.0
-2018/19,Non-opiate only,45 to 49,,,,Undefined,Number of individuals,1448.0
-2018/19,Non-opiate only,50 to 54,,,,Undefined,Number of individuals,837.0
-2018/19,Non-opiate only,55 to 59,,,,Undefined,Number of individuals,413.0
-2018/19,Non-opiate only,60 to 64,,,,Undefined,Number of individuals,171.0
-2018/19,Non-opiate only,65 to 69,,,,Undefined,Number of individuals,73.0
-2018/19,Non-opiate only,70+,,,,Undefined,Number of individuals,76.0
-2018/19,Non-opiate and alcohol,18,,,,Undefined,Number of individuals,747.0
-2018/19,Non-opiate and alcohol,19,,,,Undefined,Number of individuals,488.0
-2018/19,Non-opiate and alcohol,20 to 24,,,,Undefined,Number of individuals,3197.0
-2018/19,Non-opiate and alcohol,25 to 29,,,,Undefined,Number of individuals,4783.0
-2018/19,Non-opiate and alcohol,30 to 34,,,,Undefined,Number of individuals,5395.0
-2018/19,Non-opiate and alcohol,35 to 39,,,,Undefined,Number of individuals,4697.0
-2018/19,Non-opiate and alcohol,40 to 44,,,,Undefined,Number of individuals,3306.0
-2018/19,Non-opiate and alcohol,45 to 49,,,,Undefined,Number of individuals,2788.0
-2018/19,Non-opiate and alcohol,50 to 54,,,,Undefined,Number of individuals,1908.0
-2018/19,Non-opiate and alcohol,55 to 59,,,,Undefined,Number of individuals,895.0
-2018/19,Non-opiate and alcohol,60 to 64,,,,Undefined,Number of individuals,292.0
-2018/19,Non-opiate and alcohol,65 to 69,,,,Undefined,Number of individuals,86.0
-2018/19,Non-opiate and alcohol,70+,,,,Undefined,Number of individuals,16.0
-2018/19,Alcohol only,18,,,,Undefined,Number of individuals,179.0
-2018/19,Alcohol only,19,,,,Undefined,Number of individuals,179.0
-2018/19,Alcohol only,20 to 24,,,,Undefined,Number of individuals,1814.0
-2018/19,Alcohol only,25 to 29,,,,Undefined,Number of individuals,4366.0
-2018/19,Alcohol only,30 to 34,,,,Undefined,Number of individuals,7283.0
-2018/19,Alcohol only,35 to 39,,,,Undefined,Number of individuals,9506.0
-2018/19,Alcohol only,40 to 44,,,,Undefined,Number of individuals,10494.0
-2018/19,Alcohol only,45 to 49,,,,Undefined,Number of individuals,12312.0
-2018/19,Alcohol only,50 to 54,,,,Undefined,Number of individuals,11654.0
-2018/19,Alcohol only,55 to 59,,,,Undefined,Number of individuals,8621.0
-2018/19,Alcohol only,60 to 64,,,,Undefined,Number of individuals,4909.0
-2018/19,Alcohol only,65 to 69,,,,Undefined,Number of individuals,2532.0
-2018/19,Alcohol only,70+,,,,Undefined,Number of individuals,1706.0
-2018/19,,,Male,,,Undefined,Number of individuals,185236.0
-2018/19,Opiate,,Male,,,Undefined,Number of individuals,101810.0
-2018/19,Non-opiate only,,Male,,,Undefined,Number of individuals,17388.0
-2018/19,Non-opiate and alcohol,,Male,,,Undefined,Number of individuals,20828.0
-2018/19,Alcohol only,,Male,,,Undefined,Number of individuals,45210.0
-2018/19,,,Female,,,Undefined,Number of individuals,83015.0
-2018/19,Opiate,,Female,,,Undefined,Number of individuals,38035.0
-2018/19,Non-opiate only,,Female,,,Undefined,Number of individuals,6865.0
-2018/19,Non-opiate and alcohol,,Female,,,Undefined,Number of individuals,7770.0
-2018/19,Alcohol only,,Female,,,Undefined,Number of individuals,30345.0
-2018/19,,,,White British,,Undefined,Number of individuals,223050.0
-2018/19,,,,Other White,,Undefined,Number of individuals,10537.0
-2018/19,,,,Not stated,,Undefined,Number of individuals,4622.0
-2018/19,,,,White Irish,,Undefined,Number of individuals,3289.0
-2018/19,,,,Indian,,Undefined,Number of individuals,2939.0
-2018/19,,,,Caribbean,,Undefined,Number of individuals,2676.0
-2018/19,,,,White and Black Caribbean,,Undefined,Number of individuals,2467.0
-2018/19,,,,Pakistani,,Undefined,Number of individuals,2317.0
-2018/19,,,,Other Asian,,Undefined,Number of individuals,2277.0
-2018/19,,,,Other,,Undefined,Number of individuals,1955.0
-2018/19,,,,Other Black,,Undefined,Number of individuals,1702.0
-2018/19,,,,African,,Undefined,Number of individuals,1690.0
-2018/19,,,,Other Mixed,,Undefined,Number of individuals,1614.0
-2018/19,,,,Bangladeshi,,Undefined,Number of individuals,1229.0
-2018/19,,,,White and Asian,,Undefined,Number of individuals,791.0
-2018/19,,,,White and Black African,,Undefined,Number of individuals,618.0
-2018/19,,,,Chinese,,Undefined,Number of individuals,89.0
-2018/19,,,,Unknown,,Undefined,Number of individuals,393.0
-2018/19,Opiate,,,White British,,Undefined,Number of individuals,116263.0
-2018/19,Opiate,,,Other White,,Undefined,Number of individuals,5508.0
-2018/19,Opiate,,,Not stated,,Undefined,Number of individuals,1709.0
-2018/19,Opiate,,,White Irish,,Undefined,Number of individuals,1572.0
-2018/19,Opiate,,,Indian,,Undefined,Number of individuals,1395.0
-2018/19,Opiate,,,Caribbean,,Undefined,Number of individuals,1180.0
-2018/19,Opiate,,,White and Black Caribbean,,Undefined,Number of individuals,1281.0
-2018/19,Opiate,,,Pakistani,,Undefined,Number of individuals,1555.0
-2018/19,Opiate,,,Other Asian,,Undefined,Number of individuals,1392.0
-2018/19,Opiate,,,Other,,Undefined,Number of individuals,1191.0
-2018/19,Opiate,,,Other black,,Undefined,Number of individuals,780.0
-2018/19,Opiate,,,African,,Undefined,Number of individuals,420.0
-2018/19,Opiate,,,Other mixed,,Undefined,Number of individuals,756.0
-2018/19,Opiate,,,Bangladeshi,,Undefined,Number of individuals,912.0
-2018/19,Opiate,,,White and Asian,,Undefined,Number of individuals,440.0
-2018/19,Opiate,,,White and Black African,,Undefined,Number of individuals,285.0
-2018/19,Opiate,,,Chinese,,Undefined,Number of individuals,37.0
-2018/19,Opiate,,,Unknown,,Undefined,Number of individuals,127.0
-2018/19,Non-opiate only,,,White British,,Undefined,Number of individuals,19406.0
-2018/19,Non-opiate only,,,Other White,,Undefined,Number of individuals,870.0
-2018/19,Non-opiate only,,,Not stated,,Undefined,Number of individuals,638.0
-2018/19,Non-opiate only,,,White Irish,,Undefined,Number of individuals,168.0
-2018/19,Non-opiate only,,,Indian,,Undefined,Number of individuals,165.0
-2018/19,Non-opiate only,,,Caribbean,,Undefined,Number of individuals,508.0
-2018/19,Non-opiate only,,,White and Black Caribbean,,Undefined,Number of individuals,407.0
-2018/19,Non-opiate only,,,Pakistani,,Undefined,Number of individuals,306.0
-2018/19,Non-opiate only,,,Other Asian,,Undefined,Number of individuals,197.0
-2018/19,Non-opiate only,,,Other,,Undefined,Number of individuals,201.0
-2018/19,Non-opiate only,,,Other Black,,Undefined,Number of individuals,306.0
-2018/19,Non-opiate only,,,African,,Undefined,Number of individuals,297.0
-2018/19,Non-opiate only,,,Other Mixed,,Undefined,Number of individuals,281.0
-2018/19,Non-opiate only,,,Bangladeshi,,Undefined,Number of individuals,123.0
-2018/19,Non-opiate only,,,White and Asian,,Undefined,Number of individuals,98.0
-2018/19,Non-opiate only,,,White and Black African,,Undefined,Number of individuals,91.0
-2018/19,Non-opiate only,,,Chinese,,Undefined,Number of individuals,20.0
-2018/19,Non-opiate only,,,Unknown,,Undefined,Number of individuals,58.0
-2018/19,Non-opiate and alcohol,,,White British,,Undefined,Number of individuals,23651.0
-2018/19,Non-opiate and alcohol,,,Other White,,Undefined,Number of individuals,923.0
-2018/19,Non-opiate and alcohol,,,Not stated,,Undefined,Number of individuals,563.0
-2018/19,Non-opiate and alcohol,,,White Irish,,Undefined,Number of individuals,272.0
-2018/19,Non-opiate and alcohol,,,Indian,,Undefined,Number of individuals,319.0
-2018/19,Non-opiate and alcohol,,,Caribbean,,Undefined,Number of individuals,483.0
-2018/19,Non-opiate and alcohol,,,White and Black Caribbean,,Undefined,Number of individuals,375.0
-2018/19,Non-opiate and alcohol,,,Pakistani,,Undefined,Number of individuals,166.0
-2018/19,Non-opiate and alcohol,,,Other Asian,,Undefined,Number of individuals,177.0
-2018/19,Non-opiate and alcohol,,,Other,,Undefined,Number of individuals,165.0
-2018/19,Non-opiate and alcohol,,,Other Black,,Undefined,Number of individuals,279.0
-2018/19,Non-opiate and alcohol,,,African,,Undefined,Number of individuals,322.0
-2018/19,Non-opiate and alcohol,,,Other Mixed,,Undefined,Number of individuals,241.0
-2018/19,Non-opiate and alcohol,,,Bangladeshi,,Undefined,Number of individuals,76.0
-2018/19,Non-opiate and alcohol,,,White and Asian,,Undefined,Number of individuals,103.0
-2018/19,Non-opiate and alcohol,,,White and Black African,,Undefined,Number of individuals,96.0
-2018/19,Non-opiate and alcohol,,,Chinese,,Undefined,Number of individuals,7.0
-2018/19,Non-opiate and alcohol,,,Unknown,,Undefined,Number of individuals,82.0
-2018/19,Alcohol only,,,White British,,Undefined,Number of individuals,63730.0
-2018/19,Alcohol only,,,Other White,,Undefined,Number of individuals,3236.0
-2018/19,Alcohol only,,,Not stated,,Undefined,Number of individuals,1712.0
-2018/19,Alcohol only,,,White Irish,,Undefined,Number of individuals,1277.0
-2018/19,Alcohol only,,,Indian,,Undefined,Number of individuals,1060.0
-2018/19,Alcohol only,,,Caribbean,,Undefined,Number of individuals,505.0
-2018/19,Alcohol only,,,White and Black Caribbean,,Undefined,Number of individuals,404.0
-2018/19,Alcohol only,,,Pakistani,,Undefined,Number of individuals,290.0
-2018/19,Alcohol only,,,Other Asian,,Undefined,Number of individuals,511.0
-2018/19,Alcohol only,,,Other,,Undefined,Number of individuals,398.0
-2018/19,Alcohol only,,,Other Black,,Undefined,Number of individuals,337.0
-2018/19,Alcohol only,,,African,,Undefined,Number of individuals,651.0
-2018/19,Alcohol only,,,Other Mixed,,Undefined,Number of individuals,336.0
-2018/19,Alcohol only,,,Bangladeshi,,Undefined,Number of individuals,118.0
-2018/19,Alcohol only,,,White and Asian,,Undefined,Number of individuals,150.0
-2018/19,Alcohol only,,,White and Black African,,Undefined,Number of individuals,146.0
-2018/19,Alcohol only,,,Chinese,,Undefined,Number of individuals,25.0
-2018/19,Alcohol only,,,Unknown,,Undefined,Number of individuals,126.0
-2018/19,,,,,No limiting long-term illness or disability,Undefined,Number of individuals,89650.0
-2018/19,,,,,Limiting long-term illness or disability,Undefined,Number of individuals,33187.0
-2018/19,Opiate,,,,No limiting long-term illness or disability,Undefined,Number of individuals,28159.0
-2018/19,Opiate,,,,Limiting long-term illness or disability,Undefined,Number of individuals,11090.0
-2018/19,Non-opiate only,,,,No limiting long-term illness or disability,Undefined,Number of individuals,11780.0
-2018/19,Non-opiate only,,,,Limiting long-term illness or disability,Undefined,Number of individuals,4085.0
-2018/19,Non-opiate and alcohol,,,,No limiting long-term illness or disability,Undefined,Number of individuals,13310.0
-2018/19,Non-opiate and alcohol,,,,Limiting long-term illness or disability,Undefined,Number of individuals,5122.0
-2018/19,Alcohol only,,,,No limiting long-term illness or disability,Undefined,Number of individuals,36401.0
-2018/19,Alcohol only,,,,Limiting long-term illness or disability,Undefined,Number of individuals,12890.0
+2016/17,,,,,,Undefined,Number of clients,279793.0
+2016/17,Opiate,,,,,Undefined,Number of clients,146536.0
+2016/17,Non-opiate only,,,,,Undefined,Number of clients,24561.0
+2016/17,Non-opiate and alcohol,,,,,Undefined,Number of clients,28242.0
+2016/17,Alcohol only,,,,,Undefined,Number of clients,80454.0
+2016/17,,18,,,,Undefined,Number of clients,2171.0
+2016/17,,19,,,,Undefined,Number of clients,1778.0
+2016/17,,20 to 24,,,,Undefined,Number of clients,13604.0
+2016/17,,25 to 29,,,,Undefined,Number of clients,26895.0
+2016/17,,30 to 34,,,,Undefined,Number of clients,41295.0
+2016/17,,35 to 39,,,,Undefined,Number of clients,50816.0
+2016/17,,40 to 44,,,,Undefined,Number of clients,47378.0
+2016/17,,45 to 49,,,,Undefined,Number of clients,39908.0
+2016/17,,50 to 54,,,,Undefined,Number of clients,27625.0
+2016/17,,55 to 59,,,,Undefined,Number of clients,15009.0
+2016/17,,60 to 64,,,,Undefined,Number of clients,7718.0
+2016/17,,65 to 69,,,,Undefined,Number of clients,3631.0
+2016/17,,70+,,,,Undefined,Number of clients,1965.0
+2016/17,Opiate,18,,,,Undefined,Number of clients,145.0
+2016/17,Opiate,19,,,,Undefined,Number of clients,194.0
+2016/17,Opiate,20 to 24,,,,Undefined,Number of clients,3424.0
+2016/17,Opiate,25 to 29,,,,Undefined,Number of clients,11797.0
+2016/17,Opiate,30 to 34,,,,Undefined,Number of clients,24380.0
+2016/17,Opiate,35 to 39,,,,Undefined,Number of clients,33621.0
+2016/17,Opiate,40 to 44,,,,Undefined,Number of clients,29825.0
+2016/17,Opiate,45 to 49,,,,Undefined,Number of clients,22083.0
+2016/17,Opiate,50 to 54,,,,Undefined,Number of clients,12726.0
+2016/17,Opiate,55 to 59,,,,Undefined,Number of clients,5185.0
+2016/17,Opiate,60 to 64,,,,Undefined,Number of clients,2235.0
+2016/17,Opiate,65 to 69,,,,Undefined,Number of clients,730.0
+2016/17,Opiate,70+,,,,Undefined,Number of clients,191.0
+2016/17,Non-opiate only,18,,,,Undefined,Number of clients,1057.0
+2016/17,Non-opiate only,19,,,,Undefined,Number of clients,878.0
+2016/17,Non-opiate only,20 to 24,,,,Undefined,Number of clients,4781.0
+2016/17,Non-opiate only,25 to 29,,,,Undefined,Number of clients,5227.0
+2016/17,Non-opiate only,30 to 34,,,,Undefined,Number of clients,4255.0
+2016/17,Non-opiate only,35 to 39,,,,Undefined,Number of clients,3140.0
+2016/17,Non-opiate only,40 to 44,,,,Undefined,Number of clients,2072.0
+2016/17,Non-opiate only,45 to 49,,,,Undefined,Number of clients,1439.0
+2016/17,Non-opiate only,50 to 54,,,,Undefined,Number of clients,827.0
+2016/17,Non-opiate only,55 to 59,,,,Undefined,Number of clients,387.0
+2016/17,Non-opiate only,60 to 64,,,,Undefined,Number of clients,180.0
+2016/17,Non-opiate only,65 to 69,,,,Undefined,Number of clients,137.0
+2016/17,Non-opiate only,70+,,,,Undefined,Number of clients,181.0
+2016/17,Non-opiate and alcohol,18,,,,Undefined,Number of clients,751.0
+2016/17,Non-opiate and alcohol,19,,,,Undefined,Number of clients,500.0
+2016/17,Non-opiate and alcohol,20 to 24,,,,Undefined,Number of clients,3320.0
+2016/17,Non-opiate and alcohol,25 to 29,,,,Undefined,Number of clients,4904.0
+2016/17,Non-opiate and alcohol,30 to 34,,,,Undefined,Number of clients,5067.0
+2016/17,Non-opiate and alcohol,35 to 39,,,,Undefined,Number of clients,4257.0
+2016/17,Non-opiate and alcohol,40 to 44,,,,Undefined,Number of clients,3534.0
+2016/17,Non-opiate and alcohol,45 to 49,,,,Undefined,Number of clients,2882.0
+2016/17,Non-opiate and alcohol,50 to 54,,,,Undefined,Number of clients,1805.0
+2016/17,Non-opiate and alcohol,55 to 59,,,,Undefined,Number of clients,836.0
+2016/17,Non-opiate and alcohol,60 to 64,,,,Undefined,Number of clients,282.0
+2016/17,Non-opiate and alcohol,65 to 69,,,,Undefined,Number of clients,67.0
+2016/17,Non-opiate and alcohol,70+,,,,Undefined,Number of clients,37.0
+2016/17,Alcohol only,18,,,,Undefined,Number of clients,218.0
+2016/17,Alcohol only,19,,,,Undefined,Number of clients,206.0
+2016/17,Alcohol only,20 to 24,,,,Undefined,Number of clients,2079.0
+2016/17,Alcohol only,25 to 29,,,,Undefined,Number of clients,4967.0
+2016/17,Alcohol only,30 to 34,,,,Undefined,Number of clients,7593.0
+2016/17,Alcohol only,35 to 39,,,,Undefined,Number of clients,9798.0
+2016/17,Alcohol only,40 to 44,,,,Undefined,Number of clients,11947.0
+2016/17,Alcohol only,45 to 49,,,,Undefined,Number of clients,13504.0
+2016/17,Alcohol only,50 to 54,,,,Undefined,Number of clients,12267.0
+2016/17,Alcohol only,55 to 59,,,,Undefined,Number of clients,8601.0
+2016/17,Alcohol only,60 to 64,,,,Undefined,Number of clients,5021.0
+2016/17,Alcohol only,65 to 69,,,,Undefined,Number of clients,2697.0
+2016/17,Alcohol only,70+,,,,Undefined,Number of clients,1556.0
+2016/17,,,Male,,,Undefined,Number of clients,194304.0
+2016/17,Opiate,,Male,,,Undefined,Number of clients,106766.0
+2016/17,Non-opiate only,,Male,,,Undefined,Number of clients,17983.0
+2016/17,Non-opiate and alcohol,,Male,,,Undefined,Number of clients,20801.0
+2016/17,Alcohol only,,Male,,,Undefined,Number of clients,48754.0
+2016/17,,,Female,,,Undefined,Number of clients,85489.0
+2016/17,Opiate,,Female,,,Undefined,Number of clients,39770.0
+2016/17,Non-opiate only,,Female,,,Undefined,Number of clients,6578.0
+2016/17,Non-opiate and alcohol,,Female,,,Undefined,Number of clients,7441.0
+2016/17,Alcohol only,,Female,,,Undefined,Number of clients,31700.0
+2016/17,,,,White British,,Undefined,Number of clients,231949.0
+2016/17,,,,Other White,,Undefined,Number of clients,10515.0
+2016/17,,,,Not stated,,Undefined,Number of clients,4843.0
+2016/17,,,,White Irish,,Undefined,Number of clients,3220.0
+2016/17,,,,Indian,,Undefined,Number of clients,3344.0
+2016/17,,,,Caribbean,,Undefined,Number of clients,2928.0
+2016/17,,,,White and Black Caribbean,,Undefined,Number of clients,2518.0
+2016/17,,,,Pakistani,,Undefined,Number of clients,2468.0
+2016/17,,,,Other Asian,,Undefined,Number of clients,2380.0
+2016/17,,,,Other,,Undefined,Number of clients,2097.0
+2016/17,,,,Other Black,,Undefined,Number of clients,1863.0
+2016/17,,,,African,,Undefined,Number of clients,1755.0
+2016/17,,,,Other Mixed,,Undefined,Number of clients,1503.0
+2016/17,,,,Bangladeshi,,Undefined,Number of clients,1313.0
+2016/17,,,,White and Asian,,Undefined,Number of clients,741.0
+2016/17,,,,White and Black African,,Undefined,Number of clients,572.0
+2016/17,,,,Chinese,,Undefined,Number of clients,78.0
+2016/17,,,,Unknown,,Undefined,Number of clients,2.0
+2016/17,Opiate,,,White British,,Undefined,Number of clients,121338.0
+2016/17,Opiate,,,Other White,,Undefined,Number of clients,5784.0
+2016/17,Opiate,,,Not stated,,Undefined,Number of clients,1768.0
+2016/17,Opiate,,,White Irish,,Undefined,Number of clients,1460.0
+2016/17,Opiate,,,Indian,,Undefined,Number of clients,1676.0
+2016/17,Opiate,,,Caribbean,,Undefined,Number of clients,1233.0
+2016/17,Opiate,,,White and Black Caribbean,,Undefined,Number of clients,1293.0
+2016/17,Opiate,,,Pakistani,,Undefined,Number of clients,1614.0
+2016/17,Opiate,,,Other Asian,,Undefined,Number of clients,1423.0
+2016/17,Opiate,,,Other,,Undefined,Number of clients,1243.0
+2016/17,Opiate,,,Other black,,Undefined,Number of clients,795.0
+2016/17,Opiate,,,African,,Undefined,Number of clients,414.0
+2016/17,Opiate,,,Other mixed,,Undefined,Number of clients,695.0
+2016/17,Opiate,,,Bangladeshi,,Undefined,Number of clients,979.0
+2016/17,Opiate,,,White and Asian,,Undefined,Number of clients,418.0
+2016/17,Opiate,,,White and Black African,,Undefined,Number of clients,262.0
+2016/17,Opiate,,,Chinese,,Undefined,Number of clients,40.0
+2016/17,Opiate,,,Unknown,,Undefined,Number of clients,2.0
+2016/17,Non-opiate only,,,White British,,Undefined,Number of clients,19381.0
+2016/17,Non-opiate only,,,Other White,,Undefined,Number of clients,829.0
+2016/17,Non-opiate only,,,Not stated,,Undefined,Number of clients,591.0
+2016/17,Non-opiate only,,,White Irish,,Undefined,Number of clients,191.0
+2016/17,Non-opiate only,,,Indian,,Undefined,Number of clients,179.0
+2016/17,Non-opiate only,,,Caribbean,,Undefined,Number of clients,661.0
+2016/17,Non-opiate only,,,White and Black Caribbean,,Undefined,Number of clients,420.0
+2016/17,Non-opiate only,,,Pakistani,,Undefined,Number of clients,363.0
+2016/17,Non-opiate only,,,Other Asian,,Undefined,Number of clients,243.0
+2016/17,Non-opiate only,,,Other,,Undefined,Number of clients,223.0
+2016/17,Non-opiate only,,,Other Black,,Undefined,Number of clients,346.0
+2016/17,Non-opiate only,,,African,,Undefined,Number of clients,347.0
+2016/17,Non-opiate only,,,Other Mixed,,Undefined,Number of clients,263.0
+2016/17,Non-opiate only,,,Bangladeshi,,Undefined,Number of clients,148.0
+2016/17,Non-opiate only,,,White and Asian,,Undefined,Number of clients,97.0
+2016/17,Non-opiate only,,,White and Black African,,Undefined,Number of clients,80.0
+2016/17,Non-opiate only,,,Chinese,,Undefined,Number of clients,9.0
+2016/17,Non-opiate only,,,Unknown,,Undefined,Number of clients,0.0
+2016/17,Non-opiate and alcohol,,,White British,,Undefined,Number of clients,23137.0
+2016/17,Non-opiate and alcohol,,,Other White,,Undefined,Number of clients,838.0
+2016/17,Non-opiate and alcohol,,,Not stated,,Undefined,Number of clients,556.0
+2016/17,Non-opiate and alcohol,,,White Irish,,Undefined,Number of clients,332.0
+2016/17,Non-opiate and alcohol,,,Indian,,Undefined,Number of clients,247.0
+2016/17,Non-opiate and alcohol,,,Caribbean,,Undefined,Number of clients,507.0
+2016/17,Non-opiate and alcohol,,,White and Black Caribbean,,Undefined,Number of clients,418.0
+2016/17,Non-opiate and alcohol,,,Pakistani,,Undefined,Number of clients,179.0
+2016/17,Non-opiate and alcohol,,,Other Asian,,Undefined,Number of clients,147.0
+2016/17,Non-opiate and alcohol,,,Other,,Undefined,Number of clients,174.0
+2016/17,Non-opiate and alcohol,,,Other Black,,Undefined,Number of clients,334.0
+2016/17,Non-opiate and alcohol,,,African,,Undefined,Number of clients,368.0
+2016/17,Non-opiate and alcohol,,,Other Mixed,,Undefined,Number of clients,221.0
+2016/17,Non-opiate and alcohol,,,Bangladeshi,,Undefined,Number of clients,84.0
+2016/17,Non-opiate and alcohol,,,White and Asian,,Undefined,Number of clients,89.0
+2016/17,Non-opiate and alcohol,,,White and Black African,,Undefined,Number of clients,107.0
+2016/17,Non-opiate and alcohol,,,Chinese,,Undefined,Number of clients,7.0
+2016/17,Non-opiate and alcohol,,,Unknown,,Undefined,Number of clients,0.0
+2016/17,Alcohol only,,,White British,,Undefined,Number of clients,68093.0
+2016/17,Alcohol only,,,Other White,,Undefined,Number of clients,3064.0
+2016/17,Alcohol only,,,Not stated,,Undefined,Number of clients,1928.0
+2016/17,Alcohol only,,,White Irish,,Undefined,Number of clients,1237.0
+2016/17,Alcohol only,,,Indian,,Undefined,Number of clients,1242.0
+2016/17,Alcohol only,,,Caribbean,,Undefined,Number of clients,527.0
+2016/17,Alcohol only,,,White and Black Caribbean,,Undefined,Number of clients,387.0
+2016/17,Alcohol only,,,Pakistani,,Undefined,Number of clients,312.0
+2016/17,Alcohol only,,,Other Asian,,Undefined,Number of clients,567.0
+2016/17,Alcohol only,,,Other,,Undefined,Number of clients,457.0
+2016/17,Alcohol only,,,Other Black,,Undefined,Number of clients,388.0
+2016/17,Alcohol only,,,African,,Undefined,Number of clients,626.0
+2016/17,Alcohol only,,,Other Mixed,,Undefined,Number of clients,324.0
+2016/17,Alcohol only,,,Bangladeshi,,Undefined,Number of clients,102.0
+2016/17,Alcohol only,,,White and Asian,,Undefined,Number of clients,137.0
+2016/17,Alcohol only,,,White and Black African,,Undefined,Number of clients,123.0
+2016/17,Alcohol only,,,Chinese,,Undefined,Number of clients,22.0
+2016/17,Alcohol only,,,Unknown,,Undefined,Number of clients,0.0
+2016/17,,,,,No limiting long-term illness or disability,Undefined,Number of clients,86608.0
+2016/17,,,,,Limiting long-term illness or disability,Undefined,Number of clients,23492.0
+2016/17,,,,,Not stated and inconsistent/missing,Undefined,Number of clients,21116.0
+2016/17,Opiate,,,,No limiting long-term illness or disability,Undefined,Number of clients,29023.0
+2016/17,Opiate,,,,Limiting long-term illness or disability,Undefined,Number of clients,7773.0
+2016/17,Opiate,,,,Not stated and inconsistent/missing,Undefined,Number of clients,6346.0
+2016/17,Non-opiate only,,,,No limiting long-term illness or disability,Undefined,Number of clients,11114.0
+2016/17,Non-opiate only,,,,Limiting long-term illness or disability,Undefined,Number of clients,2784.0
+2016/17,Non-opiate only,,,,Not stated and inconsistent/missing,Undefined,Number of clients,2877.0
+2016/17,Non-opiate and alcohol,,,,No limiting long-term illness or disability,Undefined,Number of clients,12084.0
+2016/17,Non-opiate and alcohol,,,,Limiting long-term illness or disability,Undefined,Number of clients,3314.0
+2016/17,Non-opiate and alcohol,,,,Not stated and inconsistent/missing,Undefined,Number of clients,3318.0
+2016/17,Alcohol only,,,,No limiting long-term illness or disability,Undefined,Number of clients,34387.0
+2016/17,Alcohol only,,,,Limiting long-term illness or disability,Undefined,Number of clients,9621.0
+2016/17,Alcohol only,,,,Not stated and inconsistent/missing,Undefined,Number of clients,8575.0
+2017/18,,,,,,Undefined,Number of clients,268390.0
+2017/18,Opiate,,,,,Undefined,Number of clients,141189.0
+2017/18,Non-opiate only,,,,,Undefined,Number of clients,23730.0
+2017/18,Non-opiate and alcohol,,,,,Undefined,Number of clients,27684.0
+2017/18,Alcohol only,,,,,Undefined,Number of clients,75787.0
+2017/18,,18,,,,Undefined,Number of clients,1989.0
+2017/18,,19,,,,Undefined,Number of clients,1672.0
+2017/18,,20 to 24,,,,Undefined,Number of clients,12079.0
+2017/18,,25 to 29,,,,Undefined,Number of clients,24329.0
+2017/18,,30 to 34,,,,Undefined,Number of clients,37694.0
+2017/18,,35 to 39,,,,Undefined,Number of clients,49297.0
+2017/18,,40 to 44,,,,Undefined,Number of clients,45123.0
+2017/18,,45 to 49,,,,Undefined,Number of clients,39701.0
+2017/18,,50 to 54,,,,Undefined,Number of clients,27811.0
+2017/18,,55 to 59,,,,Undefined,Number of clients,15524.0
+2017/18,,60 to 64,,,,Undefined,Number of clients,7571.0
+2017/18,,65 to 69,,,,Undefined,Number of clients,3610.0
+2017/18,,70+,,,,Undefined,Number of clients,1990.0
+2017/18,Opiate,18,,,,Undefined,Number of clients,116.0
+2017/18,Opiate,19,,,,Undefined,Number of clients,184.0
+2017/18,Opiate,20 to 24,,,,Undefined,Number of clients,2772.0
+2017/18,Opiate,25 to 29,,,,Undefined,Number of clients,10114.0
+2017/18,Opiate,30 to 34,,,,Undefined,Number of clients,21067.0
+2017/18,Opiate,35 to 39,,,,Undefined,Number of clients,32263.0
+2017/18,Opiate,40 to 44,,,,Undefined,Number of clients,28968.0
+2017/18,Opiate,45 to 49,,,,Undefined,Number of clients,22876.0
+2017/18,Opiate,50 to 54,,,,Undefined,Number of clients,13612.0
+2017/18,Opiate,55 to 59,,,,Undefined,Number of clients,5784.0
+2017/18,Opiate,60 to 64,,,,Undefined,Number of clients,2350.0
+2017/18,Opiate,65 to 69,,,,Undefined,Number of clients,850.0
+2017/18,Opiate,70+,,,,Undefined,Number of clients,233.0
+2017/18,Non-opiate only,18,,,,Undefined,Number of clients,948.0
+2017/18,Non-opiate only,19,,,,Undefined,Number of clients,829.0
+2017/18,Non-opiate only,20 to 24,,,,Undefined,Number of clients,4361.0
+2017/18,Non-opiate only,25 to 29,,,,Undefined,Number of clients,5001.0
+2017/18,Non-opiate only,30 to 34,,,,Undefined,Number of clients,4337.0
+2017/18,Non-opiate only,35 to 39,,,,Undefined,Number of clients,3234.0
+2017/18,Non-opiate only,40 to 44,,,,Undefined,Number of clients,1987.0
+2017/18,Non-opiate only,45 to 49,,,,Undefined,Number of clients,1388.0
+2017/18,Non-opiate only,50 to 54,,,,Undefined,Number of clients,827.0
+2017/18,Non-opiate only,55 to 59,,,,Undefined,Number of clients,408.0
+2017/18,Non-opiate only,60 to 64,,,,Undefined,Number of clients,165.0
+2017/18,Non-opiate only,65 to 69,,,,Undefined,Number of clients,113.0
+2017/18,Non-opiate only,70+,,,,Undefined,Number of clients,132.0
+2017/18,Non-opiate and alcohol,18,,,,Undefined,Number of clients,721.0
+2017/18,Non-opiate and alcohol,19,,,,Undefined,Number of clients,483.0
+2017/18,Non-opiate and alcohol,20 to 24,,,,Undefined,Number of clients,3122.0
+2017/18,Non-opiate and alcohol,25 to 29,,,,Undefined,Number of clients,4698.0
+2017/18,Non-opiate and alcohol,30 to 34,,,,Undefined,Number of clients,5106.0
+2017/18,Non-opiate and alcohol,35 to 39,,,,Undefined,Number of clients,4431.0
+2017/18,Non-opiate and alcohol,40 to 44,,,,Undefined,Number of clients,3288.0
+2017/18,Non-opiate and alcohol,45 to 49,,,,Undefined,Number of clients,2813.0
+2017/18,Non-opiate and alcohol,50 to 54,,,,Undefined,Number of clients,1770.0
+2017/18,Non-opiate and alcohol,55 to 59,,,,Undefined,Number of clients,869.0
+2017/18,Non-opiate and alcohol,60 to 64,,,,Undefined,Number of clients,295.0
+2017/18,Non-opiate and alcohol,65 to 69,,,,Undefined,Number of clients,68.0
+2017/18,Non-opiate and alcohol,70+,,,,Undefined,Number of clients,20.0
+2017/18,Alcohol only,18,,,,Undefined,Number of clients,204.0
+2017/18,Alcohol only,19,,,,Undefined,Number of clients,176.0
+2017/18,Alcohol only,20 to 24,,,,Undefined,Number of clients,1824.0
+2017/18,Alcohol only,25 to 29,,,,Undefined,Number of clients,4516.0
+2017/18,Alcohol only,30 to 34,,,,Undefined,Number of clients,7184.0
+2017/18,Alcohol only,35 to 39,,,,Undefined,Number of clients,9369.0
+2017/18,Alcohol only,40 to 44,,,,Undefined,Number of clients,10880.0
+2017/18,Alcohol only,45 to 49,,,,Undefined,Number of clients,12624.0
+2017/18,Alcohol only,50 to 54,,,,Undefined,Number of clients,11602.0
+2017/18,Alcohol only,55 to 59,,,,Undefined,Number of clients,8463.0
+2017/18,Alcohol only,60 to 64,,,,Undefined,Number of clients,4761.0
+2017/18,Alcohol only,65 to 69,,,,Undefined,Number of clients,2579.0
+2017/18,Alcohol only,70+,,,,Undefined,Number of clients,1605.0
+2017/18,,,Male,,,Undefined,Number of clients,185870.0
+2017/18,Opiate,,Male,,,Undefined,Number of clients,102803.0
+2017/18,Non-opiate only,,Male,,,Undefined,Number of clients,17120.0
+2017/18,Non-opiate and alcohol,,Male,,,Undefined,Number of clients,20279.0
+2017/18,Alcohol only,,Male,,,Undefined,Number of clients,45668.0
+2017/18,,,Female,,,Undefined,Number of clients,82520.0
+2017/18,Opiate,,Female,,,Undefined,Number of clients,38386.0
+2017/18,Non-opiate only,,Female,,,Undefined,Number of clients,6610.0
+2017/18,Non-opiate and alcohol,,Female,,,Undefined,Number of clients,7405.0
+2017/18,Alcohol only,,Female,,,Undefined,Number of clients,30119.0
+2017/18,,,,White British,,Undefined,Number of clients,222775.0
+2017/18,,,,Other White,,Undefined,Number of clients,10347.0
+2017/18,,,,Not stated,,Undefined,Number of clients,4692.0
+2017/18,,,,White Irish,,Undefined,Number of clients,3128.0
+2017/18,,,,Indian,,Undefined,Number of clients,3324.0
+2017/18,,,,Caribbean,,Undefined,Number of clients,2738.0
+2017/18,,,,White and Black Caribbean,,Undefined,Number of clients,2443.0
+2017/18,,,,Pakistani,,Undefined,Number of clients,2307.0
+2017/18,,,,Other Asian,,Undefined,Number of clients,2270.0
+2017/18,,,,Other,,Undefined,Number of clients,2028.0
+2017/18,,,,Other Black,,Undefined,Number of clients,1794.0
+2017/18,,,,African,,Undefined,Number of clients,1678.0
+2017/18,,,,Other Mixed,,Undefined,Number of clients,1557.0
+2017/18,,,,Bangladeshi,,Undefined,Number of clients,1252.0
+2017/18,,,,White and Asian,,Undefined,Number of clients,767.0
+2017/18,,,,White and Black African,,Undefined,Number of clients,593.0
+2017/18,,,,Chinese,,Undefined,Number of clients,86.0
+2017/18,,,,Unknown,,Undefined,Number of clients,0.0
+2017/18,Opiate,,,White British,,Undefined,Number of clients,117280.0
+2017/18,Opiate,,,Other White,,Undefined,Number of clients,5579.0
+2017/18,Opiate,,,Not stated,,Undefined,Number of clients,1782.0
+2017/18,Opiate,,,White Irish,,Undefined,Number of clients,1420.0
+2017/18,Opiate,,,Indian,,Undefined,Number of clients,1593.0
+2017/18,Opiate,,,Caribbean,,Undefined,Number of clients,1185.0
+2017/18,Opiate,,,White and Black Caribbean,,Undefined,Number of clients,1232.0
+2017/18,Opiate,,,Pakistani,,Undefined,Number of clients,1514.0
+2017/18,Opiate,,,Other Asian,,Undefined,Number of clients,1349.0
+2017/18,Opiate,,,Other,,Undefined,Number of clients,1208.0
+2017/18,Opiate,,,Other black,,Undefined,Number of clients,779.0
+2017/18,Opiate,,,African,,Undefined,Number of clients,401.0
+2017/18,Opiate,,,Other mixed,,Undefined,Number of clients,742.0
+2017/18,Opiate,,,Bangladeshi,,Undefined,Number of clients,928.0
+2017/18,Opiate,,,White and Asian,,Undefined,Number of clients,415.0
+2017/18,Opiate,,,White and Black African,,Undefined,Number of clients,277.0
+2017/18,Opiate,,,Chinese,,Undefined,Number of clients,38.0
+2017/18,Opiate,,,Unknown,,Undefined,Number of clients,0.0
+2017/18,Non-opiate only,,,White British,,Undefined,Number of clients,18762.0
+2017/18,Non-opiate only,,,Other White,,Undefined,Number of clients,851.0
+2017/18,Non-opiate only,,,Not stated,,Undefined,Number of clients,645.0
+2017/18,Non-opiate only,,,White Irish,,Undefined,Number of clients,179.0
+2017/18,Non-opiate only,,,Indian,,Undefined,Number of clients,191.0
+2017/18,Non-opiate only,,,Caribbean,,Undefined,Number of clients,571.0
+2017/18,Non-opiate only,,,White and Black Caribbean,,Undefined,Number of clients,393.0
+2017/18,Non-opiate only,,,Pakistani,,Undefined,Number of clients,347.0
+2017/18,Non-opiate only,,,Other Asian,,Undefined,Number of clients,219.0
+2017/18,Non-opiate only,,,Other,,Undefined,Number of clients,215.0
+2017/18,Non-opiate only,,,Other Black,,Undefined,Number of clients,332.0
+2017/18,Non-opiate only,,,African,,Undefined,Number of clients,295.0
+2017/18,Non-opiate only,,,Other Mixed,,Undefined,Number of clients,261.0
+2017/18,Non-opiate only,,,Bangladeshi,,Undefined,Number of clients,137.0
+2017/18,Non-opiate only,,,White and Asian,,Undefined,Number of clients,90.0
+2017/18,Non-opiate only,,,White and Black African,,Undefined,Number of clients,102.0
+2017/18,Non-opiate only,,,Chinese,,Undefined,Number of clients,14.0
+2017/18,Non-opiate only,,,Unknown,,Undefined,Number of clients,0.0
+2017/18,Non-opiate and alcohol,,,White British,,Undefined,Number of clients,22782.0
+2017/18,Non-opiate and alcohol,,,Other White,,Undefined,Number of clients,860.0
+2017/18,Non-opiate and alcohol,,,Not stated,,Undefined,Number of clients,549.0
+2017/18,Non-opiate and alcohol,,,White Irish,,Undefined,Number of clients,355.0
+2017/18,Non-opiate and alcohol,,,Indian,,Undefined,Number of clients,280.0
+2017/18,Non-opiate and alcohol,,,Caribbean,,Undefined,Number of clients,490.0
+2017/18,Non-opiate and alcohol,,,White and Black Caribbean,,Undefined,Number of clients,416.0
+2017/18,Non-opiate and alcohol,,,Pakistani,,Undefined,Number of clients,169.0
+2017/18,Non-opiate and alcohol,,,Other Asian,,Undefined,Number of clients,153.0
+2017/18,Non-opiate and alcohol,,,Other,,Undefined,Number of clients,163.0
+2017/18,Non-opiate and alcohol,,,Other Black,,Undefined,Number of clients,293.0
+2017/18,Non-opiate and alcohol,,,African,,Undefined,Number of clients,343.0
+2017/18,Non-opiate and alcohol,,,Other Mixed,,Undefined,Number of clients,237.0
+2017/18,Non-opiate and alcohol,,,Bangladeshi,,Undefined,Number of clients,82.0
+2017/18,Non-opiate and alcohol,,,White and Asian,,Undefined,Number of clients,100.0
+2017/18,Non-opiate and alcohol,,,White and Black African,,Undefined,Number of clients,80.0
+2017/18,Non-opiate and alcohol,,,Chinese,,Undefined,Number of clients,8.0
+2017/18,Non-opiate and alcohol,,,Unknown,,Undefined,Number of clients,0.0
+2017/18,Alcohol only,,,White British,,Undefined,Number of clients,63951.0
+2017/18,Alcohol only,,,Other White,,Undefined,Number of clients,3057.0
+2017/18,Alcohol only,,,Not stated,,Undefined,Number of clients,1716.0
+2017/18,Alcohol only,,,White Irish,,Undefined,Number of clients,1174.0
+2017/18,Alcohol only,,,Indian,,Undefined,Number of clients,1260.0
+2017/18,Alcohol only,,,Caribbean,,Undefined,Number of clients,492.0
+2017/18,Alcohol only,,,White and Black Caribbean,,Undefined,Number of clients,402.0
+2017/18,Alcohol only,,,Pakistani,,Undefined,Number of clients,277.0
+2017/18,Alcohol only,,,Other Asian,,Undefined,Number of clients,549.0
+2017/18,Alcohol only,,,Other,,Undefined,Number of clients,442.0
+2017/18,Alcohol only,,,Other Black,,Undefined,Number of clients,390.0
+2017/18,Alcohol only,,,African,,Undefined,Number of clients,639.0
+2017/18,Alcohol only,,,Other Mixed,,Undefined,Number of clients,317.0
+2017/18,Alcohol only,,,Bangladeshi,,Undefined,Number of clients,105.0
+2017/18,Alcohol only,,,White and Asian,,Undefined,Number of clients,162.0
+2017/18,Alcohol only,,,White and Black African,,Undefined,Number of clients,134.0
+2017/18,Alcohol only,,,Chinese,,Undefined,Number of clients,26.0
+2017/18,Alcohol only,,,Unknown,,Undefined,Number of clients,0.0
+2017/18,,,,,No limiting long-term illness or disability,Undefined,Number of clients,87412.0
+2017/18,,,,,Limiting long-term illness or disability,Undefined,Number of clients,27041.0
+2017/18,,,,,Not stated and inconsistent/missing,Undefined,Number of clients,12854.0
+2017/18,Opiate,,,,No limiting long-term illness or disability,Undefined,Number of clients,28405.0
+2017/18,Opiate,,,,Limiting long-term illness or disability,Undefined,Number of clients,9035.0
+2017/18,Opiate,,,,Not stated and inconsistent/missing,Undefined,Number of clients,3738.0
+2017/18,Non-opiate only,,,,No limiting long-term illness or disability,Undefined,Number of clients,11228.0
+2017/18,Non-opiate only,,,,Limiting long-term illness or disability,Undefined,Number of clients,3300.0
+2017/18,Non-opiate only,,,,Not stated and inconsistent/missing,Undefined,Number of clients,2188.0
+2017/18,Non-opiate and alcohol,,,,No limiting long-term illness or disability,Undefined,Number of clients,12709.0
+2017/18,Non-opiate and alcohol,,,,Limiting long-term illness or disability,Undefined,Number of clients,3879.0
+2017/18,Non-opiate and alcohol,,,,Not stated and inconsistent/missing,Undefined,Number of clients,2169.0
+2017/18,Alcohol only,,,,No limiting long-term illness or disability,Undefined,Number of clients,35070.0
+2017/18,Alcohol only,,,,Limiting long-term illness or disability,Undefined,Number of clients,10827.0
+2017/18,Alcohol only,,,,Not stated and inconsistent/missing,Undefined,Number of clients,4759.0
+2018/19,,,,,,Undefined,Number of clients,268251.0
+2018/19,Opiate,,,,,Undefined,Number of clients,139845.0
+2018/19,Non-opiate only,,,,,Undefined,Number of clients,24253.0
+2018/19,Non-opiate and alcohol,,,,,Undefined,Number of clients,28598.0
+2018/19,Alcohol only,,,,,Undefined,Number of clients,75555.0
+2018/19,,18,,,,Undefined,Number of clients,1921.0
+2018/19,,19,,,,Undefined,Number of clients,1624.0
+2018/19,,20 to 24,,,,Undefined,Number of clients,11938.0
+2018/19,,25 to 29,,,,Undefined,Number of clients,23160.0
+2018/19,,30 to 34,,,,Undefined,Number of clients,36344.0
+2018/19,,35 to 39,,,,Undefined,Number of clients,48620.0
+2018/19,,40 to 44,,,,Undefined,Number of clients,44915.0
+2018/19,,45 to 49,,,,Undefined,Number of clients,40221.0
+2018/19,,50 to 54,,,,Undefined,Number of clients,29272.0
+2018/19,,55 to 59,,,,Undefined,Number of clients,16506.0
+2018/19,,60 to 64,,,,Undefined,Number of clients,7992.0
+2018/19,,65 to 69,,,,Undefined,Number of clients,3661.0
+2018/19,,70+,,,,Undefined,Number of clients,2077.0
+2018/19,Opiate,18,,,,Undefined,Number of clients,86.0
+2018/19,Opiate,19,,,,Undefined,Number of clients,180.0
+2018/19,Opiate,20 to 24,,,,Undefined,Number of clients,2474.0
+2018/19,Opiate,25 to 29,,,,Undefined,Number of clients,8996.0
+2018/19,Opiate,30 to 34,,,,Undefined,Number of clients,19077.0
+2018/19,Opiate,35 to 39,,,,Undefined,Number of clients,31038.0
+2018/19,Opiate,40 to 44,,,,Undefined,Number of clients,29002.0
+2018/19,Opiate,45 to 49,,,,Undefined,Number of clients,23673.0
+2018/19,Opiate,50 to 54,,,,Undefined,Number of clients,14873.0
+2018/19,Opiate,55 to 59,,,,Undefined,Number of clients,6577.0
+2018/19,Opiate,60 to 64,,,,Undefined,Number of clients,2620.0
+2018/19,Opiate,65 to 69,,,,Undefined,Number of clients,970.0
+2018/19,Opiate,70+,,,,Undefined,Number of clients,279.0
+2018/19,Non-opiate only,18,,,,Undefined,Number of clients,909.0
+2018/19,Non-opiate only,19,,,,Undefined,Number of clients,777.0
+2018/19,Non-opiate only,20 to 24,,,,Undefined,Number of clients,4453.0
+2018/19,Non-opiate only,25 to 29,,,,Undefined,Number of clients,5015.0
+2018/19,Non-opiate only,30 to 34,,,,Undefined,Number of clients,4589.0
+2018/19,Non-opiate only,35 to 39,,,,Undefined,Number of clients,3379.0
+2018/19,Non-opiate only,40 to 44,,,,Undefined,Number of clients,2113.0
+2018/19,Non-opiate only,45 to 49,,,,Undefined,Number of clients,1448.0
+2018/19,Non-opiate only,50 to 54,,,,Undefined,Number of clients,837.0
+2018/19,Non-opiate only,55 to 59,,,,Undefined,Number of clients,413.0
+2018/19,Non-opiate only,60 to 64,,,,Undefined,Number of clients,171.0
+2018/19,Non-opiate only,65 to 69,,,,Undefined,Number of clients,73.0
+2018/19,Non-opiate only,70+,,,,Undefined,Number of clients,76.0
+2018/19,Non-opiate and alcohol,18,,,,Undefined,Number of clients,747.0
+2018/19,Non-opiate and alcohol,19,,,,Undefined,Number of clients,488.0
+2018/19,Non-opiate and alcohol,20 to 24,,,,Undefined,Number of clients,3197.0
+2018/19,Non-opiate and alcohol,25 to 29,,,,Undefined,Number of clients,4783.0
+2018/19,Non-opiate and alcohol,30 to 34,,,,Undefined,Number of clients,5395.0
+2018/19,Non-opiate and alcohol,35 to 39,,,,Undefined,Number of clients,4697.0
+2018/19,Non-opiate and alcohol,40 to 44,,,,Undefined,Number of clients,3306.0
+2018/19,Non-opiate and alcohol,45 to 49,,,,Undefined,Number of clients,2788.0
+2018/19,Non-opiate and alcohol,50 to 54,,,,Undefined,Number of clients,1908.0
+2018/19,Non-opiate and alcohol,55 to 59,,,,Undefined,Number of clients,895.0
+2018/19,Non-opiate and alcohol,60 to 64,,,,Undefined,Number of clients,292.0
+2018/19,Non-opiate and alcohol,65 to 69,,,,Undefined,Number of clients,86.0
+2018/19,Non-opiate and alcohol,70+,,,,Undefined,Number of clients,16.0
+2018/19,Alcohol only,18,,,,Undefined,Number of clients,179.0
+2018/19,Alcohol only,19,,,,Undefined,Number of clients,179.0
+2018/19,Alcohol only,20 to 24,,,,Undefined,Number of clients,1814.0
+2018/19,Alcohol only,25 to 29,,,,Undefined,Number of clients,4366.0
+2018/19,Alcohol only,30 to 34,,,,Undefined,Number of clients,7283.0
+2018/19,Alcohol only,35 to 39,,,,Undefined,Number of clients,9506.0
+2018/19,Alcohol only,40 to 44,,,,Undefined,Number of clients,10494.0
+2018/19,Alcohol only,45 to 49,,,,Undefined,Number of clients,12312.0
+2018/19,Alcohol only,50 to 54,,,,Undefined,Number of clients,11654.0
+2018/19,Alcohol only,55 to 59,,,,Undefined,Number of clients,8621.0
+2018/19,Alcohol only,60 to 64,,,,Undefined,Number of clients,4909.0
+2018/19,Alcohol only,65 to 69,,,,Undefined,Number of clients,2532.0
+2018/19,Alcohol only,70+,,,,Undefined,Number of clients,1706.0
+2018/19,,,Male,,,Undefined,Number of clients,185236.0
+2018/19,Opiate,,Male,,,Undefined,Number of clients,101810.0
+2018/19,Non-opiate only,,Male,,,Undefined,Number of clients,17388.0
+2018/19,Non-opiate and alcohol,,Male,,,Undefined,Number of clients,20828.0
+2018/19,Alcohol only,,Male,,,Undefined,Number of clients,45210.0
+2018/19,,,Female,,,Undefined,Number of clients,83015.0
+2018/19,Opiate,,Female,,,Undefined,Number of clients,38035.0
+2018/19,Non-opiate only,,Female,,,Undefined,Number of clients,6865.0
+2018/19,Non-opiate and alcohol,,Female,,,Undefined,Number of clients,7770.0
+2018/19,Alcohol only,,Female,,,Undefined,Number of clients,30345.0
+2018/19,,,,White British,,Undefined,Number of clients,223050.0
+2018/19,,,,Other White,,Undefined,Number of clients,10537.0
+2018/19,,,,Not stated,,Undefined,Number of clients,4622.0
+2018/19,,,,White Irish,,Undefined,Number of clients,3289.0
+2018/19,,,,Indian,,Undefined,Number of clients,2939.0
+2018/19,,,,Caribbean,,Undefined,Number of clients,2676.0
+2018/19,,,,White and Black Caribbean,,Undefined,Number of clients,2467.0
+2018/19,,,,Pakistani,,Undefined,Number of clients,2317.0
+2018/19,,,,Other Asian,,Undefined,Number of clients,2277.0
+2018/19,,,,Other,,Undefined,Number of clients,1955.0
+2018/19,,,,Other Black,,Undefined,Number of clients,1702.0
+2018/19,,,,African,,Undefined,Number of clients,1690.0
+2018/19,,,,Other Mixed,,Undefined,Number of clients,1614.0
+2018/19,,,,Bangladeshi,,Undefined,Number of clients,1229.0
+2018/19,,,,White and Asian,,Undefined,Number of clients,791.0
+2018/19,,,,White and Black African,,Undefined,Number of clients,618.0
+2018/19,,,,Chinese,,Undefined,Number of clients,89.0
+2018/19,,,,Unknown,,Undefined,Number of clients,393.0
+2018/19,Opiate,,,White British,,Undefined,Number of clients,116263.0
+2018/19,Opiate,,,Other White,,Undefined,Number of clients,5508.0
+2018/19,Opiate,,,Not stated,,Undefined,Number of clients,1709.0
+2018/19,Opiate,,,White Irish,,Undefined,Number of clients,1572.0
+2018/19,Opiate,,,Indian,,Undefined,Number of clients,1395.0
+2018/19,Opiate,,,Caribbean,,Undefined,Number of clients,1180.0
+2018/19,Opiate,,,White and Black Caribbean,,Undefined,Number of clients,1281.0
+2018/19,Opiate,,,Pakistani,,Undefined,Number of clients,1555.0
+2018/19,Opiate,,,Other Asian,,Undefined,Number of clients,1392.0
+2018/19,Opiate,,,Other,,Undefined,Number of clients,1191.0
+2018/19,Opiate,,,Other black,,Undefined,Number of clients,780.0
+2018/19,Opiate,,,African,,Undefined,Number of clients,420.0
+2018/19,Opiate,,,Other mixed,,Undefined,Number of clients,756.0
+2018/19,Opiate,,,Bangladeshi,,Undefined,Number of clients,912.0
+2018/19,Opiate,,,White and Asian,,Undefined,Number of clients,440.0
+2018/19,Opiate,,,White and Black African,,Undefined,Number of clients,285.0
+2018/19,Opiate,,,Chinese,,Undefined,Number of clients,37.0
+2018/19,Opiate,,,Unknown,,Undefined,Number of clients,127.0
+2018/19,Non-opiate only,,,White British,,Undefined,Number of clients,19406.0
+2018/19,Non-opiate only,,,Other White,,Undefined,Number of clients,870.0
+2018/19,Non-opiate only,,,Not stated,,Undefined,Number of clients,638.0
+2018/19,Non-opiate only,,,White Irish,,Undefined,Number of clients,168.0
+2018/19,Non-opiate only,,,Indian,,Undefined,Number of clients,165.0
+2018/19,Non-opiate only,,,Caribbean,,Undefined,Number of clients,508.0
+2018/19,Non-opiate only,,,White and Black Caribbean,,Undefined,Number of clients,407.0
+2018/19,Non-opiate only,,,Pakistani,,Undefined,Number of clients,306.0
+2018/19,Non-opiate only,,,Other Asian,,Undefined,Number of clients,197.0
+2018/19,Non-opiate only,,,Other,,Undefined,Number of clients,201.0
+2018/19,Non-opiate only,,,Other Black,,Undefined,Number of clients,306.0
+2018/19,Non-opiate only,,,African,,Undefined,Number of clients,297.0
+2018/19,Non-opiate only,,,Other Mixed,,Undefined,Number of clients,281.0
+2018/19,Non-opiate only,,,Bangladeshi,,Undefined,Number of clients,123.0
+2018/19,Non-opiate only,,,White and Asian,,Undefined,Number of clients,98.0
+2018/19,Non-opiate only,,,White and Black African,,Undefined,Number of clients,91.0
+2018/19,Non-opiate only,,,Chinese,,Undefined,Number of clients,20.0
+2018/19,Non-opiate only,,,Unknown,,Undefined,Number of clients,58.0
+2018/19,Non-opiate and alcohol,,,White British,,Undefined,Number of clients,23651.0
+2018/19,Non-opiate and alcohol,,,Other White,,Undefined,Number of clients,923.0
+2018/19,Non-opiate and alcohol,,,Not stated,,Undefined,Number of clients,563.0
+2018/19,Non-opiate and alcohol,,,White Irish,,Undefined,Number of clients,272.0
+2018/19,Non-opiate and alcohol,,,Indian,,Undefined,Number of clients,319.0
+2018/19,Non-opiate and alcohol,,,Caribbean,,Undefined,Number of clients,483.0
+2018/19,Non-opiate and alcohol,,,White and Black Caribbean,,Undefined,Number of clients,375.0
+2018/19,Non-opiate and alcohol,,,Pakistani,,Undefined,Number of clients,166.0
+2018/19,Non-opiate and alcohol,,,Other Asian,,Undefined,Number of clients,177.0
+2018/19,Non-opiate and alcohol,,,Other,,Undefined,Number of clients,165.0
+2018/19,Non-opiate and alcohol,,,Other Black,,Undefined,Number of clients,279.0
+2018/19,Non-opiate and alcohol,,,African,,Undefined,Number of clients,322.0
+2018/19,Non-opiate and alcohol,,,Other Mixed,,Undefined,Number of clients,241.0
+2018/19,Non-opiate and alcohol,,,Bangladeshi,,Undefined,Number of clients,76.0
+2018/19,Non-opiate and alcohol,,,White and Asian,,Undefined,Number of clients,103.0
+2018/19,Non-opiate and alcohol,,,White and Black African,,Undefined,Number of clients,96.0
+2018/19,Non-opiate and alcohol,,,Chinese,,Undefined,Number of clients,7.0
+2018/19,Non-opiate and alcohol,,,Unknown,,Undefined,Number of clients,82.0
+2018/19,Alcohol only,,,White British,,Undefined,Number of clients,63730.0
+2018/19,Alcohol only,,,Other White,,Undefined,Number of clients,3236.0
+2018/19,Alcohol only,,,Not stated,,Undefined,Number of clients,1712.0
+2018/19,Alcohol only,,,White Irish,,Undefined,Number of clients,1277.0
+2018/19,Alcohol only,,,Indian,,Undefined,Number of clients,1060.0
+2018/19,Alcohol only,,,Caribbean,,Undefined,Number of clients,505.0
+2018/19,Alcohol only,,,White and Black Caribbean,,Undefined,Number of clients,404.0
+2018/19,Alcohol only,,,Pakistani,,Undefined,Number of clients,290.0
+2018/19,Alcohol only,,,Other Asian,,Undefined,Number of clients,511.0
+2018/19,Alcohol only,,,Other,,Undefined,Number of clients,398.0
+2018/19,Alcohol only,,,Other Black,,Undefined,Number of clients,337.0
+2018/19,Alcohol only,,,African,,Undefined,Number of clients,651.0
+2018/19,Alcohol only,,,Other Mixed,,Undefined,Number of clients,336.0
+2018/19,Alcohol only,,,Bangladeshi,,Undefined,Number of clients,118.0
+2018/19,Alcohol only,,,White and Asian,,Undefined,Number of clients,150.0
+2018/19,Alcohol only,,,White and Black African,,Undefined,Number of clients,146.0
+2018/19,Alcohol only,,,Chinese,,Undefined,Number of clients,25.0
+2018/19,Alcohol only,,,Unknown,,Undefined,Number of clients,126.0
+2018/19,,,,,No limiting long-term illness or disability,Undefined,Number of clients,89650.0
+2018/19,,,,,Not stated and inconsistent/missing,Undefined,Number of clients,9373.0
+2018/19,,,,,Limiting long-term illness or disability,Undefined,Number of clients,33187.0
+2018/19,Opiate,,,,No limiting long-term illness or disability,Undefined,Number of clients,28159.0
+2018/19,Opiate,,,,Limiting long-term illness or disability,Undefined,Number of clients,11090.0
+2018/19,Opiate,,,,Not stated and inconsistent/missing,Undefined,Number of clients,2679.0
+2018/19,Non-opiate only,,,,No limiting long-term illness or disability,Undefined,Number of clients,11780.0
+2018/19,Non-opiate only,,,,Limiting long-term illness or disability,Undefined,Number of clients,4085.0
+2018/19,Non-opiate only,,,,Not stated and inconsistent/missing,Undefined,Number of clients,1809.0
+2018/19,Non-opiate and alcohol,,,,No limiting long-term illness or disability,Undefined,Number of clients,13310.0
+2018/19,Non-opiate and alcohol,,,,Limiting long-term illness or disability,Undefined,Number of clients,5122.0
+2018/19,Non-opiate and alcohol,,,,Not stated and inconsistent/missing,Undefined,Number of clients,1783.0
+2018/19,Alcohol only,,,,No limiting long-term illness or disability,Undefined,Number of clients,36401.0
+2018/19,Alcohol only,,,,Limiting long-term illness or disability,Undefined,Number of clients,12890.0
+2018/19,Alcohol only,,,,Not stated and inconsistent/missing,Undefined,Number of clients,3102.0
+2016/17,Opiate,,,,,Undefined,Percentage of clients (%),52.37300432819978
+2016/17,Non-opiate only,,,,,Undefined,Percentage of clients (%),8.77827536786124
+2016/17,Non-opiate and alcohol,,,,,Undefined,Percentage of clients (%),10.093890840728681
+2016/17,Alcohol only,,,,,Undefined,Percentage of clients (%),28.754829463210303
+2016/17,,18,,,,Undefined,Percentage of clients (%),0.7759307773961465
+2016/17,,19,,,,Undefined,Percentage of clients (%),0.6354697937403724
+2016/17,,20 to 24,,,,Undefined,Percentage of clients (%),4.862165958404964
+2016/17,,25 to 29,,,,Undefined,Percentage of clients (%),9.61246349980164
+2016/17,,30 to 34,,,,Undefined,Percentage of clients (%),14.759125496349087
+2016/17,,35 to 39,,,,Undefined,Percentage of clients (%),18.16199833448299
+2016/17,,40 to 44,,,,Undefined,Percentage of clients (%),16.933232782807288
+2016/17,,45 to 49,,,,Undefined,Percentage of clients (%),14.263401872098303
+2016/17,,50 to 54,,,,Undefined,Percentage of clients (%),9.873370670459947
+2016/17,,55 to 59,,,,Undefined,Percentage of clients (%),5.364322910151433
+2016/17,,60 to 64,,,,Undefined,Percentage of clients (%),2.7584678673161944
+2016/17,,65 to 69,,,,Undefined,Percentage of clients (%),1.2977451187127627
+2016/17,,70+,,,,Undefined,Percentage of clients (%),0.7023049182788704
+2016/17,Opiate,18,,,,Undefined,Percentage of clients (%),0.0989517934159524
+2016/17,Opiate,19,,,,Undefined,Percentage of clients (%),0.13239067532892942
+2016/17,Opiate,20 to 24,,,,Undefined,Percentage of clients (%),2.336627176939455
+2016/17,Opiate,25 to 29,,,,Undefined,Percentage of clients (%),8.050581427089588
+2016/17,Opiate,30 to 34,,,,Undefined,Percentage of clients (%),16.63754981710979
+2016/17,Opiate,35 to 39,,,,Undefined,Percentage of clients (%),22.94384997543266
+2016/17,Opiate,40 to 44,,,,Undefined,Percentage of clients (%),20.353360266419173
+2016/17,Opiate,45 to 49,,,,Undefined,Percentage of clients (%),15.070016924168804
+2016/17,Opiate,50 to 54,,,,Undefined,Percentage of clients (%),8.684555331113174
+2016/17,Opiate,55 to 59,,,,Undefined,Percentage of clients (%),3.5383796473221594
+2016/17,Opiate,60 to 64,,,,Undefined,Percentage of clients (%),1.5252224709286455
+2016/17,Opiate,65 to 69,,,,Undefined,Percentage of clients (%),0.4981710978872086
+2016/17,Opiate,70+,,,,Undefined,Percentage of clients (%),0.13034339684446145
+2016/17,Non-opiate only,18,,,,Undefined,Percentage of clients (%),4.303570701518668
+2016/17,Non-opiate only,19,,,,Undefined,Percentage of clients (%),3.5747730141280893
+2016/17,Non-opiate only,20 to 24,,,,Undefined,Percentage of clients (%),19.465819795610926
+2016/17,Non-opiate only,25 to 29,,,,Undefined,Percentage of clients (%),21.28170677089695
+2016/17,Non-opiate only,30 to 34,,,,Undefined,Percentage of clients (%),17.3242131835023
+2016/17,Non-opiate only,35 to 39,,,,Undefined,Percentage of clients (%),12.784495745287245
+2016/17,Non-opiate only,40 to 44,,,,Undefined,Percentage of clients (%),8.436138593705468
+2016/17,Non-opiate only,45 to 49,,,,Undefined,Percentage of clients (%),5.858881967346606
+2016/17,Non-opiate only,50 to 54,,,,Undefined,Percentage of clients (%),3.3671267456536786
+2016/17,Non-opiate only,55 to 59,,,,Undefined,Percentage of clients (%),1.5756687431293512
+2016/17,Non-opiate only,60 to 64,,,,Undefined,Percentage of clients (%),0.7328691828508611
+2016/17,Non-opiate only,65 to 69,,,,Undefined,Percentage of clients (%),0.557794878058711
+2016/17,Non-opiate only,70+,,,,Undefined,Percentage of clients (%),0.7369406783111437
+2016/17,Non-opiate and alcohol,18,,,,Undefined,Percentage of clients (%),2.6591601161390837
+2016/17,Non-opiate and alcohol,19,,,,Undefined,Percentage of clients (%),1.7704128602790172
+2016/17,Non-opiate and alcohol,20 to 24,,,,Undefined,Percentage of clients (%),11.755541392252674
+2016/17,Non-opiate and alcohol,25 to 29,,,,Undefined,Percentage of clients (%),17.3642093336166
+2016/17,Non-opiate and alcohol,30 to 34,,,,Undefined,Percentage of clients (%),17.94136392606756
+2016/17,Non-opiate and alcohol,35 to 39,,,,Undefined,Percentage of clients (%),15.07329509241555
+2016/17,Non-opiate and alcohol,40 to 44,,,,Undefined,Percentage of clients (%),12.513278096452094
+2016/17,Non-opiate and alcohol,45 to 49,,,,Undefined,Percentage of clients (%),10.204659726648254
+2016/17,Non-opiate and alcohol,50 to 54,,,,Undefined,Percentage of clients (%),6.391190425607252
+2016/17,Non-opiate and alcohol,55 to 59,,,,Undefined,Percentage of clients (%),2.9601303023865166
+2016/17,Non-opiate and alcohol,60 to 64,,,,Undefined,Percentage of clients (%),0.9985128531973655
+2016/17,Non-opiate and alcohol,65 to 69,,,,Undefined,Percentage of clients (%),0.23723532327738828
+2016/17,Non-opiate and alcohol,70+,,,,Undefined,Percentage of clients (%),0.13101055166064726
+2016/17,Alcohol only,18,,,,Undefined,Percentage of clients (%),0.270962289009869
+2016/17,Alcohol only,19,,,,Undefined,Percentage of clients (%),0.2560469336515276
+2016/17,Alcohol only,20 to 24,,,,Undefined,Percentage of clients (%),2.5840853158326498
+2016/17,Alcohol only,25 to 29,,,,Undefined,Percentage of clients (%),6.173714172073483
+2016/17,Alcohol only,30 to 34,,,,Undefined,Percentage of clients (%),9.437691102990529
+2016/17,Alcohol only,35 to 39,,,,Undefined,Percentage of clients (%),12.178387650085764
+2016/17,Alcohol only,40 to 44,,,,Undefined,Percentage of clients (%),14.849479205508736
+2016/17,Alcohol only,45 to 49,,,,Undefined,Percentage of clients (%),16.784746563253535
+2016/17,Alcohol only,50 to 54,,,,Undefined,Percentage of clients (%),15.24722201506451
+2016/17,Alcohol only,55 to 59,,,,Undefined,Percentage of clients (%),10.690580953091207
+2016/17,Alcohol only,60 to 64,,,,Undefined,Percentage of clients (%),6.24083327118602
+2016/17,Alcohol only,65 to 69,,,,Undefined,Percentage of clients (%),3.3522261167872323
+2016/17,Alcohol only,70+,,,,Undefined,Percentage of clients (%),1.9340244114649365
+2016/17,,,Male,,,Undefined,Percentage of clients (%),69.44562587341356
+2016/17,Opiate,,Male,,,Undefined,Percentage of clients (%),72.85991155756946
+2016/17,Non-opiate only,,Male,,,Undefined,Percentage of clients (%),73.21770286226132
+2016/17,Non-opiate and alcohol,,Male,,,Undefined,Percentage of clients (%),73.65271581332766
+2016/17,Alcohol only,,Male,,,Undefined,Percentage of clients (%),60.59860292838144
+2016/17,,,Female,,,Undefined,Percentage of clients (%),30.554374126586442
+2016/17,Opiate,,Female,,,Undefined,Percentage of clients (%),27.140088442430528
+2016/17,Non-opiate only,,Female,,,Undefined,Percentage of clients (%),26.78229713773869
+2016/17,Non-opiate and alcohol,,Female,,,Undefined,Percentage of clients (%),26.347284186672333
+2016/17,Alcohol only,,Female,,,Undefined,Percentage of clients (%),39.40139707161857
+2016/17,,,,White British,,Undefined,Percentage of clients (%),84.62543188526355
+2016/17,,,,Other White,,Undefined,Percentage of clients (%),3.836345128772041
+2016/17,,,,Not stated,,Undefined,Percentage of clients (%),1.766944313708321
+2016/17,,,,White Irish,,Undefined,Percentage of clients (%),1.1748008858436494
+2016/17,,,,Indian,,Undefined,Percentage of clients (%),1.220041665298498
+2016/17,,,,Caribbean,,Undefined,Percentage of clients (%),1.0682661471273929
+2016/17,,,,White and Black Caribbean,,Undefined,Percentage of clients (%),0.9186796989299096
+2016/17,,,,Pakistani,,Undefined,Percentage of clients (%),0.9004374491497288
+2016/17,,,,Other Asian,,Undefined,Percentage of clients (%),0.8683310895366104
+2016/17,,,,Other,,Undefined,Percentage of clients (%),0.7650799557807866
+2016/17,,,,Other Black,,Undefined,Percentage of clients (%),0.67970622680954
+2016/17,,,,African,,Undefined,Percentage of clients (%),0.6403029672843492
+2016/17,,,,Other Mixed,,Undefined,Percentage of clients (%),0.5483620283922376
+2016/17,,,,Bangladeshi,,Undefined,Percentage of clients (%),0.4790414792275502
+2016/17,,,,White and Asian,,Undefined,Percentage of clients (%),0.2703501417422808
+2016/17,,,,White and Black African,,Undefined,Percentage of clients (%),0.20869133748526938
+2016/17,,,,Chinese,,Undefined,Percentage of clients (%),0.02845790965708219
+2016/17,,,,Unknown,,Undefined,Percentage of clients (%),0.0007296899912072356
+2016/17,Opiate,,,White British,,Undefined,Percentage of clients (%),85.18713536510879
+2016/17,Opiate,,,Other White,,Undefined,Percentage of clients (%),4.060742644116346
+2016/17,Opiate,,,Not stated,,Undefined,Percentage of clients (%),1.2412505177727697
+2016/17,Opiate,,,White Irish,,Undefined,Percentage of clients (%),1.0250145678440292
+2016/17,Opiate,,,Indian,,Undefined,Percentage of clients (%),1.176660558703146
+2016/17,Opiate,,,Caribbean,,Undefined,Percentage of clients (%),0.8656458644874576
+2016/17,Opiate,,,White and Black Caribbean,,Undefined,Percentage of clients (%),0.9077697508372123
+2016/17,Opiate,,,Pakistani,,Undefined,Percentage of clients (%),1.1331325428083996
+2016/17,Opiate,,,Other Asian,,Undefined,Percentage of clients (%),0.9990381712616805
+2016/17,Opiate,,,Other,,Undefined,Percentage of clients (%),0.8726665122124166
+2016/17,Opiate,,,Other black,,Undefined,Percentage of clients (%),0.5581414941342489
+2016/17,Opiate,,,African,,Undefined,Percentage of clients (%),0.29065481581330693
+2016/17,Opiate,,,Other mixed,,Undefined,Percentage of clients (%),0.48793501688465774
+2016/17,Opiate,,,Bangladeshi,,Undefined,Percentage of clients (%),0.6873214122734963
+2016/17,Opiate,,,White and Asian,,Undefined,Percentage of clients (%),0.2934630749032906
+2016/17,Opiate,,,White and Black African,,Undefined,Percentage of clients (%),0.18394097039392854
+2016/17,Opiate,,,Chinese,,Undefined,Percentage of clients (%),0.028082590899836418
+2016/17,Opiate,,,Unknown,,Undefined,Percentage of clients (%),0.001404129544991821
+2016/17,Non-opiate only,,,White British,,Undefined,Percentage of clients (%),79.5248451027861
+2016/17,Non-opiate only,,,Other White,,Undefined,Percentage of clients (%),3.4015838496573796
+2016/17,Non-opiate only,,,Not stated,,Undefined,Percentage of clients (%),2.4250133355217267
+2016/17,Non-opiate only,,,White Irish,,Undefined,Percentage of clients (%),0.7837183537811333
+2016/17,Non-opiate only,,,Indian,,Undefined,Percentage of clients (%),0.7344795043289155
+2016/17,Non-opiate only,,,Caribbean,,Undefined,Percentage of clients (%),2.7122399573263305
+2016/17,Non-opiate only,,,White and Black Caribbean,,Undefined,Percentage of clients (%),1.7233597308276232
+2016/17,Non-opiate only,,,Pakistani,,Undefined,Percentage of clients (%),1.4894751959295884
+2016/17,Non-opiate only,,,Other Asian,,Undefined,Percentage of clients (%),0.9970867014074104
+2016/17,Non-opiate only,,,Other,,Undefined,Percentage of clients (%),0.9150219523203807
+2016/17,Non-opiate only,,,Other Black,,Undefined,Percentage of clients (%),1.4197201592056132
+2016/17,Non-opiate only,,,African,,Undefined,Percentage of clients (%),1.4238233966599647
+2016/17,Non-opiate only,,,Other Mixed,,Undefined,Percentage of clients (%),1.0791514504944402
+2016/17,Non-opiate only,,,Bangladeshi,,Undefined,Percentage of clients (%),0.6072791432440194
+2016/17,Non-opiate only,,,White and Asian,,Undefined,Percentage of clients (%),0.3980140330720939
+2016/17,Non-opiate only,,,White and Black African,,Undefined,Percentage of clients (%),0.32825899634811867
+2016/17,Non-opiate only,,,Chinese,,Undefined,Percentage of clients (%),0.03692913708916335
+2016/17,Non-opiate only,,,Unknown,,Undefined,Percentage of clients (%),0.0
+2016/17,Non-opiate and alcohol,,,White British,,Undefined,Percentage of clients (%),83.39160209046675
+2016/17,Non-opiate and alcohol,,,Other White,,Undefined,Percentage of clients (%),3.020364029554875
+2016/17,Non-opiate and alcohol,,,Not stated,,Undefined,Percentage of clients (%),2.003964678320418
+2016/17,Non-opiate and alcohol,,,White Irish,,Undefined,Percentage of clients (%),1.1966120021625517
+2016/17,Non-opiate and alcohol,,,Indian,,Undefined,Percentage of clients (%),0.8902504955847901
+2016/17,Non-opiate and alcohol,,,Caribbean,,Undefined,Percentage of clients (%),1.827356280410885
+2016/17,Non-opiate and alcohol,,,White and Black Caribbean,,Undefined,Percentage of clients (%),1.5065777617588756
+2016/17,Non-opiate and alcohol,,,Pakistani,,Undefined,Percentage of clients (%),0.6451612903225806
+2016/17,Non-opiate and alcohol,,,Other Asian,,Undefined,Percentage of clients (%),0.5298251937285997
+2016/17,Non-opiate and alcohol,,,Other,,Undefined,Percentage of clients (%),0.6271400252297711
+2016/17,Non-opiate and alcohol,,,Other Black,,Undefined,Percentage of clients (%),1.2038205081996756
+2016/17,Non-opiate and alcohol,,,African,,Undefined,Percentage of clients (%),1.3263651108307803
+2016/17,Non-opiate and alcohol,,,Other Mixed,,Undefined,Percentage of clients (%),0.7965399171021805
+2016/17,Non-opiate and alcohol,,,Bangladeshi,,Undefined,Percentage of clients (%),0.30275725355919986
+2016/17,Non-opiate and alcohol,,,White and Asian,,Undefined,Percentage of clients (%),0.32077851865200935
+2016/17,Non-opiate and alcohol,,,White and Black African,,Undefined,Percentage of clients (%),0.3856550729861236
+2016/17,Non-opiate and alcohol,,,Chinese,,Undefined,Percentage of clients (%),0.02522977112993332
+2016/17,Non-opiate and alcohol,,,Unknown,,Undefined,Percentage of clients (%),0.0
+2016/17,Alcohol only,,,White British,,Undefined,Percentage of clients (%),85.61280426473546
+2016/17,Alcohol only,,,Other White,,Undefined,Percentage of clients (%),3.8523435928384626
+2016/17,Alcohol only,,,Not stated,,Undefined,Percentage of clients (%),2.424059545363106
+2016/17,Alcohol only,,,White Irish,,Undefined,Percentage of clients (%),1.5552705693019513
+2016/17,Alcohol only,,,Indian,,Undefined,Percentage of clients (%),1.5615570307785154
+2016/17,Alcohol only,,,Caribbean,,Undefined,Percentage of clients (%),0.6625930396298532
+2016/17,Alcohol only,,,White and Black Caribbean,,Undefined,Percentage of clients (%),0.4865721182860591
+2016/17,Alcohol only,,,Pakistani,,Undefined,Percentage of clients (%),0.3922751961375981
+2016/17,Alcohol only,,,Other Asian,,Undefined,Percentage of clients (%),0.7128847314423657
+2016/17,Alcohol only,,,Other,,Undefined,Percentage of clients (%),0.5745825789579562
+2016/17,Alcohol only,,,Other Black,,Undefined,Percentage of clients (%),0.48782941058137197
+2016/17,Alcohol only,,,African,,Undefined,Percentage of clients (%),0.7870649768658218
+2016/17,Alcohol only,,,Other Mixed,,Undefined,Percentage of clients (%),0.4073627036813518
+2016/17,Alcohol only,,,Bangladeshi,,Undefined,Percentage of clients (%),0.12824381412190705
+2016/17,Alcohol only,,,White and Asian,,Undefined,Percentage of clients (%),0.17224904445785555
+2016/17,Alcohol only,,,White and Black African,,Undefined,Percentage of clients (%),0.15464695232347617
+2016/17,Alcohol only,,,Chinese,,Undefined,Percentage of clients (%),0.027660430496881914
+2016/17,Alcohol only,,,Unknown,,Undefined,Percentage of clients (%),0.0
+2016/17,,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),67.27319085809653
+2016/17,,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),18.01724537573594
+2016/17,,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),16.09254968906231
+2016/17,Opiate,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),66.25335320417287
+2016/17,Opiate,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),16.59612518628912
+2016/17,Opiate,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),14.709563766167541
+2016/17,Non-opiate only,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),64.56507800812139
+2016/17,Non-opiate only,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),17.706774951912802
+2016/17,Non-opiate only,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),17.150521609538004
+2016/17,Non-opiate and alcohol,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),65.3956601943594
+2016/17,Non-opiate and alcohol,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),18.29678793526425
+2016/17,Non-opiate and alcohol,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),17.728147039965805
+2016/17,Alcohol only,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),66.00414583587367
+2016/17,Alcohol only,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),17.903304475064015
+2016/17,Alcohol only,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),16.307551870376358
+2017/18,Opiate,,,,,Undefined,Percentage of clients (%),52.605909311077156
+2017/18,Non-opiate only,,,,,Undefined,Percentage of clients (%),8.841611088341592
+2017/18,Non-opiate and alcohol,,,,,Undefined,Percentage of clients (%),10.314840344275122
+2017/18,Alcohol only,,,,,Undefined,Percentage of clients (%),28.237639256306124
+2017/18,,18,,,,Undefined,Percentage of clients (%),0.741085733447595
+2017/18,,19,,,,Undefined,Percentage of clients (%),0.6229740303289989
+2017/18,,20 to 24,,,,Undefined,Percentage of clients (%),4.500540258578933
+2017/18,,25 to 29,,,,Undefined,Percentage of clients (%),9.064793770259696
+2017/18,,30 to 34,,,,Undefined,Percentage of clients (%),14.044487499534261
+2017/18,,35 to 39,,,,Undefined,Percentage of clients (%),18.3676739073736
+2017/18,,40 to 44,,,,Undefined,Percentage of clients (%),16.812474384291516
+2017/18,,45 to 49,,,,Undefined,Percentage of clients (%),14.7922798912031
+2017/18,,50 to 54,,,,Undefined,Percentage of clients (%),10.362159543947241
+2017/18,,55 to 59,,,,Undefined,Percentage of clients (%),5.784120123700585
+2017/18,,60 to 64,,,,Undefined,Percentage of clients (%),2.820894966280413
+2017/18,,65 to 69,,,,Undefined,Percentage of clients (%),1.3450575654830657
+2017/18,,70+,,,,Undefined,Percentage of clients (%),0.7414583255709974
+2017/18,Opiate,18,,,,Undefined,Percentage of clients (%),0.08215937502213345
+2017/18,Opiate,19,,,,Undefined,Percentage of clients (%),0.13032176727648753
+2017/18,Opiate,20 to 24,,,,Undefined,Percentage of clients (%),1.963325754839258
+2017/18,Opiate,25 to 29,,,,Undefined,Percentage of clients (%),7.163447577360843
+2017/18,Opiate,30 to 34,,,,Undefined,Percentage of clients (%),14.921134082683496
+2017/18,Opiate,35 to 39,,,,Undefined,Percentage of clients (%),22.85093031326803
+2017/18,Opiate,40 to 44,,,,Undefined,Percentage of clients (%),20.517179100354845
+2017/18,Opiate,45 to 49,,,,Undefined,Percentage of clients (%),16.20239537074418
+2017/18,Opiate,50 to 54,,,,Undefined,Percentage of clients (%),9.640977696562764
+2017/18,Opiate,55 to 59,,,,Undefined,Percentage of clients (%),4.096636423517412
+2017/18,Opiate,60 to 64,,,,Undefined,Percentage of clients (%),1.6644356146725312
+2017/18,Opiate,65 to 69,,,,Undefined,Percentage of clients (%),0.6020299031794262
+2017/18,Opiate,70+,,,,Undefined,Percentage of clients (%),0.16502702051859564
+2017/18,Non-opiate only,18,,,,Undefined,Percentage of clients (%),3.9949431099873576
+2017/18,Non-opiate only,19,,,,Undefined,Percentage of clients (%),3.49346818373367
+2017/18,Non-opiate only,20 to 24,,,,Undefined,Percentage of clients (%),18.377581120943955
+2017/18,Non-opiate only,25 to 29,,,,Undefined,Percentage of clients (%),21.074589127686473
+2017/18,Non-opiate only,30 to 34,,,,Undefined,Percentage of clients (%),18.276443320691108
+2017/18,Non-opiate only,35 to 39,,,,Undefined,Percentage of clients (%),13.628318584070797
+2017/18,Non-opiate only,40 to 44,,,,Undefined,Percentage of clients (%),8.373367045933417
+2017/18,Non-opiate only,45 to 49,,,,Undefined,Percentage of clients (%),5.849136114622841
+2017/18,Non-opiate only,50 to 54,,,,Undefined,Percentage of clients (%),3.4850400337125995
+2017/18,Non-opiate only,55 to 59,,,,Undefined,Percentage of clients (%),1.7193426042983566
+2017/18,Non-opiate only,60 to 64,,,,Undefined,Percentage of clients (%),0.695322376738306
+2017/18,Non-opiate only,65 to 69,,,,Undefined,Percentage of clients (%),0.4761904761904762
+2017/18,Non-opiate only,70+,,,,Undefined,Percentage of clients (%),0.5562579013906448
+2017/18,Non-opiate and alcohol,18,,,,Undefined,Percentage of clients (%),2.604392428839763
+2017/18,Non-opiate and alcohol,19,,,,Undefined,Percentage of clients (%),1.7446900736887732
+2017/18,Non-opiate and alcohol,20 to 24,,,,Undefined,Percentage of clients (%),11.277272070510042
+2017/18,Non-opiate and alcohol,25 to 29,,,,Undefined,Percentage of clients (%),16.970091027308193
+2017/18,Non-opiate and alcohol,30 to 34,,,,Undefined,Percentage of clients (%),18.44386649328132
+2017/18,Non-opiate and alcohol,35 to 39,,,,Undefined,Percentage of clients (%),16.005635023840487
+2017/18,Non-opiate and alcohol,40 to 44,,,,Undefined,Percentage of clients (%),11.87689640225401
+2017/18,Non-opiate and alcohol,45 to 49,,,,Undefined,Percentage of clients (%),10.161103886721571
+2017/18,Non-opiate and alcohol,50 to 54,,,,Undefined,Percentage of clients (%),6.393584742089294
+2017/18,Non-opiate and alcohol,55 to 59,,,,Undefined,Percentage of clients (%),3.1389972547319753
+2017/18,Non-opiate and alcohol,60 to 64,,,,Undefined,Percentage of clients (%),1.0655974570148823
+2017/18,Non-opiate and alcohol,65 to 69,,,,Undefined,Percentage of clients (%),0.24562924432885422
+2017/18,Non-opiate and alcohol,70+,,,,Undefined,Percentage of clients (%),0.07224389539083947
+2017/18,Alcohol only,18,,,,Undefined,Percentage of clients (%),0.2691754522543444
+2017/18,Alcohol only,19,,,,Undefined,Percentage of clients (%),0.2322298019449246
+2017/18,Alcohol only,20 to 24,,,,Undefined,Percentage of clients (%),2.406745220156491
+2017/18,Alcohol only,25 to 29,,,,Undefined,Percentage of clients (%),5.958805599904997
+2017/18,Alcohol only,30 to 34,,,,Undefined,Percentage of clients (%),9.479198279388285
+2017/18,Alcohol only,35 to 39,,,,Undefined,Percentage of clients (%),12.362278491034083
+2017/18,Alcohol only,40 to 44,,,,Undefined,Percentage of clients (%),14.356024120231703
+2017/18,Alcohol only,45 to 49,,,,Undefined,Percentage of clients (%),16.657210339504136
+2017/18,Alcohol only,50 to 54,,,,Undefined,Percentage of clients (%),15.308694103210312
+2017/18,Alcohol only,55 to 59,,,,Undefined,Percentage of clients (%),11.166822806022141
+2017/18,Alcohol only,60 to 64,,,,Undefined,Percentage of clients (%),6.28208004011242
+2017/18,Alcohol only,65 to 69,,,,Undefined,Percentage of clients (%),3.4029582909997753
+2017/18,Alcohol only,70+,,,,Undefined,Percentage of clients (%),2.117777455236386
+2017/18,,,Male,,,Undefined,Percentage of clients (%),69.25369797682477
+2017/18,Opiate,,Male,,,Undefined,Percentage of clients (%),72.81232957241711
+2017/18,Non-opiate only,,Male,,,Undefined,Percentage of clients (%),72.14496418036241
+2017/18,Non-opiate and alcohol,,Male,,,Undefined,Percentage of clients (%),73.25169773154168
+2017/18,Alcohol only,,Male,,,Undefined,Percentage of clients (%),60.25835565466373
+2017/18,,,Female,,,Undefined,Percentage of clients (%),30.746302023175232
+2017/18,Opiate,,Female,,,Undefined,Percentage of clients (%),27.187670427582884
+2017/18,Non-opiate only,,Female,,,Undefined,Percentage of clients (%),27.855035819637592
+2017/18,Non-opiate and alcohol,,Female,,,Undefined,Percentage of clients (%),26.748302268458314
+2017/18,Alcohol only,,Female,,,Undefined,Percentage of clients (%),39.74164434533627
+2017/18,,,,White British,,Undefined,Percentage of clients (%),84.45516891033782
+2017/18,,,,Other White,,Undefined,Percentage of clients (%),3.922601875054496
+2017/18,,,,Not stated,,Undefined,Percentage of clients (%),1.7787617664787567
+2017/18,,,,White Irish,,Undefined,Percentage of clients (%),1.1858411776525044
+2017/18,,,,Indian,,Undefined,Percentage of clients (%),1.2601458038736972
+2017/18,,,,Caribbean,,Undefined,Percentage of clients (%),1.0379901356817638
+2017/18,,,,White and Black Caribbean,,Undefined,Percentage of clients (%),0.9261540911141524
+2017/18,,,,Pakistani,,Undefined,Percentage of clients (%),0.8745957790423043
+2017/18,,,,Other Asian,,Undefined,Percentage of clients (%),0.8605688853168751
+2017/18,,,,Other,,Undefined,Percentage of clients (%),0.7688254182478514
+2017/18,,,,Other Black,,Undefined,Percentage of clients (%),0.680114793065407
+2017/18,,,,African,,Undefined,Percentage of clients (%),0.6361385857100073
+2017/18,,,,Other Mixed,,Undefined,Percentage of clients (%),0.5902668521754955
+2017/18,,,,Bangladeshi,,Undefined,Percentage of clients (%),0.47463975524965973
+2017/18,,,,White and Asian,,Undefined,Percentage of clients (%),0.29077371587579
+2017/18,,,,White and Black African,,Undefined,Percentage of clients (%),0.22480940484269027
+2017/18,,,,Chinese,,Undefined,Percentage of clients (%),0.03260305028072743
+2017/18,,,,Unknown,,Undefined,Percentage of clients (%),0.0
+2017/18,Opiate,,,White British,,Undefined,Percentage of clients (%),85.15705551763698
+2017/18,Opiate,,,Other White,,Undefined,Percentage of clients (%),4.050914160410102
+2017/18,Opiate,,,Not stated,,Undefined,Percentage of clients (%),1.2939109220022944
+2017/18,Opiate,,,White Irish,,Undefined,Percentage of clients (%),1.031062575332917
+2017/18,Opiate,,,Indian,,Undefined,Percentage of clients (%),1.1566779454262937
+2017/18,Opiate,,,Caribbean,,Undefined,Percentage of clients (%),0.860428980119371
+2017/18,Opiate,,,White and Black Caribbean,,Undefined,Percentage of clients (%),0.8945556991620801
+2017/18,Opiate,,,Pakistani,,Undefined,Percentage of clients (%),1.0993160134183355
+2017/18,Opiate,,,Other Asian,,Undefined,Percentage of clients (%),0.9795094465662713
+2017/18,Opiate,,,Other,,Undefined,Percentage of clients (%),0.8771292894381435
+2017/18,Opiate,,,Other black,,Undefined,Percentage of clients (%),0.5656322156227763
+2017/18,Opiate,,,African,,Undefined,Percentage of clients (%),0.29116626247077443
+2017/18,Opiate,,,Other mixed,,Undefined,Percentage of clients (%),0.5387665006317074
+2017/18,Opiate,,,Bangladeshi,,Undefined,Percentage of clients (%),0.6738211759922161
+2017/18,Opiate,,,White and Asian,,Undefined,Percentage of clients (%),0.30133166814307083
+2017/18,Opiate,,,White and Black African,,Undefined,Percentage of clients (%),0.20112981223043525
+2017/18,Opiate,,,Chinese,,Undefined,Percentage of clients (%),0.027591815396232993
+2017/18,Opiate,,,Unknown,,Undefined,Percentage of clients (%),0.0
+2017/18,Non-opiate only,,,White British,,Undefined,Percentage of clients (%),79.48652770716828
+2017/18,Non-opiate only,,,Other White,,Undefined,Percentage of clients (%),3.6053211320115235
+2017/18,Non-opiate only,,,Not stated,,Undefined,Percentage of clients (%),2.7325876970005085
+2017/18,Non-opiate only,,,White Irish,,Undefined,Percentage of clients (%),0.7583460430435519
+2017/18,Non-opiate only,,,Indian,,Undefined,Percentage of clients (%),0.80918488391798
+2017/18,Non-opiate only,,,Caribbean,,Undefined,Percentage of clients (%),2.419081511608202
+2017/18,Non-opiate only,,,White and Black Caribbean,,Undefined,Percentage of clients (%),1.6649720386375193
+2017/18,Non-opiate only,,,Pakistani,,Undefined,Percentage of clients (%),1.4700898152855448
+2017/18,Non-opiate only,,,Other Asian,,Undefined,Percentage of clients (%),0.9278088459583121
+2017/18,Non-opiate only,,,Other,,Undefined,Percentage of clients (%),0.9108625656668361
+2017/18,Non-opiate only,,,Other Black,,Undefined,Percentage of clients (%),1.4065412641925097
+2017/18,Non-opiate only,,,African,,Undefined,Percentage of clients (%),1.2497881714963566
+2017/18,Non-opiate only,,,Other Mixed,,Undefined,Percentage of clients (%),1.1057447890188103
+2017/18,Non-opiate only,,,Bangladeshi,,Undefined,Percentage of clients (%),0.5804100999830537
+2017/18,Non-opiate only,,,White and Asian,,Undefined,Percentage of clients (%),0.3812913065582105
+2017/18,Non-opiate only,,,White and Black African,,Undefined,Percentage of clients (%),0.4321301474326385
+2017/18,Non-opiate only,,,Chinese,,Undefined,Percentage of clients (%),0.05931198102016608
+2017/18,Non-opiate only,,,Unknown,,Undefined,Percentage of clients (%),0.0
+2017/18,Non-opiate and alcohol,,,White British,,Undefined,Percentage of clients (%),83.26754385964912
+2017/18,Non-opiate and alcohol,,,Other White,,Undefined,Percentage of clients (%),3.143274853801169
+2017/18,Non-opiate and alcohol,,,Not stated,,Undefined,Percentage of clients (%),2.0065789473684212
+2017/18,Non-opiate and alcohol,,,White Irish,,Undefined,Percentage of clients (%),1.297514619883041
+2017/18,Non-opiate and alcohol,,,Indian,,Undefined,Percentage of clients (%),1.023391812865497
+2017/18,Non-opiate and alcohol,,,Caribbean,,Undefined,Percentage of clients (%),1.7909356725146197
+2017/18,Non-opiate and alcohol,,,White and Black Caribbean,,Undefined,Percentage of clients (%),1.5204678362573099
+2017/18,Non-opiate and alcohol,,,Pakistani,,Undefined,Percentage of clients (%),0.6176900584795322
+2017/18,Non-opiate and alcohol,,,Other Asian,,Undefined,Percentage of clients (%),0.5592105263157895
+2017/18,Non-opiate and alcohol,,,Other,,Undefined,Percentage of clients (%),0.5957602339181287
+2017/18,Non-opiate and alcohol,,,Other Black,,Undefined,Percentage of clients (%),1.070906432748538
+2017/18,Non-opiate and alcohol,,,African,,Undefined,Percentage of clients (%),1.2536549707602338
+2017/18,Non-opiate and alcohol,,,Other Mixed,,Undefined,Percentage of clients (%),0.8662280701754386
+2017/18,Non-opiate and alcohol,,,Bangladeshi,,Undefined,Percentage of clients (%),0.29970760233918126
+2017/18,Non-opiate and alcohol,,,White and Asian,,Undefined,Percentage of clients (%),0.36549707602339176
+2017/18,Non-opiate and alcohol,,,White and Black African,,Undefined,Percentage of clients (%),0.29239766081871343
+2017/18,Non-opiate and alcohol,,,Chinese,,Undefined,Percentage of clients (%),0.029239766081871347
+2017/18,Non-opiate and alcohol,,,Unknown,,Undefined,Percentage of clients (%),0.0
+2017/18,Alcohol only,,,White British,,Undefined,Percentage of clients (%),85.16239862570413
+2017/18,Alcohol only,,,Other White,,Undefined,Percentage of clients (%),4.070952019495825
+2017/18,Alcohol only,,,Not stated,,Undefined,Percentage of clients (%),2.285166393671847
+2017/18,Alcohol only,,,White Irish,,Undefined,Percentage of clients (%),1.5633947238757273
+2017/18,Alcohol only,,,Indian,,Undefined,Percentage of clients (%),1.6779193799688386
+2017/18,Alcohol only,,,Caribbean,,Undefined,Percentage of clients (%),0.6551875674164037
+2017/18,Alcohol only,,,White and Black Caribbean,,Undefined,Percentage of clients (%),0.5353361831329152
+2017/18,Alcohol only,,,Pakistani,,Undefined,Percentage of clients (%),0.36887592718362566
+2017/18,Alcohol only,,,Other Asian,,Undefined,Percentage of clients (%),0.7310934441292797
+2017/18,Alcohol only,,,Other,,Undefined,Percentage of clients (%),0.5886034650366878
+2017/18,Alcohol only,,,Other Black,,Undefined,Percentage of clients (%),0.5193559985617834
+2017/18,Alcohol only,,,African,,Undefined,Percentage of clients (%),0.8509448284127683
+2017/18,Alcohol only,,,Other Mixed,,Undefined,Percentage of clients (%),0.4221432090873983
+2017/18,Alcohol only,,,Bangladeshi,,Undefined,Percentage of clients (%),0.1398266149974032
+2017/18,Alcohol only,,,White and Asian,,Undefined,Percentage of clients (%),0.21573249171027925
+2017/18,Alcohol only,,,White and Black African,,Undefined,Percentage of clients (%),0.1784453943776384
+2017/18,Alcohol only,,,Chinese,,Undefined,Percentage of clients (%),0.03462373323745223
+2017/18,Alcohol only,,,Unknown,,Undefined,Percentage of clients (%),0.0
+2017/18,,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),68.66236734822124
+2017/18,,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),21.24078016134227
+2017/18,,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),10.096852490436504
+2017/18,Opiate,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),68.98100927679829
+2017/18,Opiate,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),21.941327893535384
+2017/18,Opiate,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),9.077662829666327
+2017/18,Non-opiate only,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),67.16917922948073
+2017/18,Non-opiate only,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),19.74156496769562
+2017/18,Non-opiate only,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),13.089255802823644
+2017/18,Non-opiate and alcohol,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),67.75603774590819
+2017/18,Non-opiate and alcohol,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),20.680279362371383
+2017/18,Non-opiate and alcohol,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),11.563682891720424
+2017/18,Alcohol only,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),69.23168035375869
+2017/18,Alcohol only,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),21.373578648136448
+2017/18,Alcohol only,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),9.394740998104863
+2018/19,Opiate,,,,,Undefined,Percentage of clients (%),52.13214489414765
+2018/19,Non-opiate only,,,,,Undefined,Percentage of clients (%),9.041159212826793
+2018/19,Non-opiate and alcohol,,,,,Undefined,Percentage of clients (%),10.660910863333221
+2018/19,Alcohol only,,,,,Undefined,Percentage of clients (%),28.16578502969234
+2018/19,,18,,,,Undefined,Percentage of clients (%),0.7161203499707364
+2018/19,,19,,,,Undefined,Percentage of clients (%),0.6054031485437147
+2018/19,,20 to 24,,,,Undefined,Percentage of clients (%),4.4503095981002865
+2018/19,,25 to 29,,,,Undefined,Percentage of clients (%),8.633705000167753
+2018/19,,30 to 34,,,,Undefined,Percentage of clients (%),13.548504944995546
+2018/19,,35 to 39,,,,Undefined,Percentage of clients (%),18.12481593731244
+2018/19,,40 to 44,,,,Undefined,Percentage of clients (%),16.743646808399596
+2018/19,,45 to 49,,,,Undefined,Percentage of clients (%),14.993793126586667
+2018/19,,50 to 54,,,,Undefined,Percentage of clients (%),10.912168081386463
+2018/19,,55 to 59,,,,Undefined,Percentage of clients (%),6.153192345974479
+2018/19,,60 to 64,,,,Undefined,Percentage of clients (%),2.979299238399857
+2018/19,,65 to 69,,,,Undefined,Percentage of clients (%),1.3647665805532878
+2018/19,,70+,,,,Undefined,Percentage of clients (%),0.774274839609172
+2018/19,Opiate,18,,,,Undefined,Percentage of clients (%),0.061496657013121674
+2018/19,Opiate,19,,,,Undefined,Percentage of clients (%),0.12871393328327793
+2018/19,Opiate,20 to 24,,,,Undefined,Percentage of clients (%),1.7691015052379422
+2018/19,Opiate,25 to 29,,,,Undefined,Percentage of clients (%),6.432836354535379
+2018/19,Opiate,30 to 34,,,,Undefined,Percentage of clients (%),13.641531695806073
+2018/19,Opiate,35 to 39,,,,Undefined,Percentage of clients (%),22.194572562479888
+2018/19,Opiate,40 to 44,,,,Undefined,Percentage of clients (%),20.73867496156459
+2018/19,Opiate,45 to 49,,,,Undefined,Percentage of clients (%),16.928027458972434
+2018/19,Opiate,50 to 54,,,,Undefined,Percentage of clients (%),10.6353462762344
+2018/19,Opiate,55 to 59,,,,Undefined,Percentage of clients (%),4.703064106689549
+2018/19,Opiate,60 to 64,,,,Undefined,Percentage of clients (%),1.8735028066788229
+2018/19,Opiate,65 to 69,,,,Undefined,Percentage of clients (%),0.6936250849154421
+2018/19,Opiate,70+,,,,Undefined,Percentage of clients (%),0.19950659658908076
+2018/19,Non-opiate only,18,,,,Undefined,Percentage of clients (%),3.7479899393889418
+2018/19,Non-opiate only,19,,,,Undefined,Percentage of clients (%),3.203727373933122
+2018/19,Non-opiate only,20 to 24,,,,Undefined,Percentage of clients (%),18.360615181627015
+2018/19,Non-opiate only,25 to 29,,,,Undefined,Percentage of clients (%),20.677854286067703
+2018/19,Non-opiate only,30 to 34,,,,Undefined,Percentage of clients (%),18.921370552096647
+2018/19,Non-opiate only,35 to 39,,,,Undefined,Percentage of clients (%),13.932297035418298
+2018/19,Non-opiate only,40 to 44,,,,Undefined,Percentage of clients (%),8.71232424854657
+2018/19,Non-opiate only,45 to 49,,,,Undefined,Percentage of clients (%),5.9703954150002065
+2018/19,Non-opiate only,50 to 54,,,,Undefined,Percentage of clients (%),3.4511194491403128
+2018/19,Non-opiate only,55 to 59,,,,Undefined,Percentage of clients (%),1.7028821176761637
+2018/19,Non-opiate only,60 to 64,,,,Undefined,Percentage of clients (%),0.7050674143404939
+2018/19,Non-opiate only,65 to 69,,,,Undefined,Percentage of clients (%),0.3009936915020822
+2018/19,Non-opiate only,70+,,,,Undefined,Percentage of clients (%),0.3133632952624418
+2018/19,Non-opiate and alcohol,18,,,,Undefined,Percentage of clients (%),2.6120707741800127
+2018/19,Non-opiate and alcohol,19,,,,Undefined,Percentage of clients (%),1.7064130358766347
+2018/19,Non-opiate and alcohol,20 to 24,,,,Undefined,Percentage of clients (%),11.17910343380656
+2018/19,Non-opiate and alcohol,25 to 29,,,,Undefined,Percentage of clients (%),16.72494580040562
+2018/19,Non-opiate and alcohol,30 to 34,,,,Undefined,Percentage of clients (%),18.86495559130009
+2018/19,Non-opiate and alcohol,35 to 39,,,,Undefined,Percentage of clients (%),16.42422547031261
+2018/19,Non-opiate and alcohol,40 to 44,,,,Undefined,Percentage of clients (%),11.560248968459334
+2018/19,Non-opiate and alcohol,45 to 49,,,,Undefined,Percentage of clients (%),9.748933491852577
+2018/19,Non-opiate and alcohol,50 to 54,,,,Undefined,Percentage of clients (%),6.671795230435695
+2018/19,Non-opiate and alcohol,55 to 59,,,,Undefined,Percentage of clients (%),3.129589481781943
+2018/19,Non-opiate and alcohol,60 to 64,,,,Undefined,Percentage of clients (%),1.021050423106511
+2018/19,Non-opiate and alcohol,65 to 69,,,,Undefined,Percentage of clients (%),0.30072033009301347
+2018/19,Non-opiate and alcohol,70+,,,,Undefined,Percentage of clients (%),0.05594796838939786
+2018/19,Alcohol only,18,,,,Undefined,Percentage of clients (%),0.23691350671696115
+2018/19,Alcohol only,19,,,,Undefined,Percentage of clients (%),0.23691350671696115
+2018/19,Alcohol only,20 to 24,,,,Undefined,Percentage of clients (%),2.4009000066176958
+2018/19,Alcohol only,25 to 29,,,,Undefined,Percentage of clients (%),5.77857190126398
+2018/19,Alcohol only,30 to 34,,,,Undefined,Percentage of clients (%),9.639335583349878
+2018/19,Alcohol only,35 to 39,,,,Undefined,Percentage of clients (%),12.581563099728674
+2018/19,Alcohol only,40 to 44,,,,Undefined,Percentage of clients (%),13.889219773674807
+2018/19,Alcohol only,45 to 49,,,,Undefined,Percentage of clients (%),16.295413936867185
+2018/19,Alcohol only,50 to 54,,,,Undefined,Percentage of clients (%),15.424525180332207
+2018/19,Alcohol only,55 to 59,,,,Undefined,Percentage of clients (%),11.410230957580572
+2018/19,Alcohol only,60 to 64,,,,Undefined,Percentage of clients (%),6.497253656276884
+2018/19,Alcohol only,65 to 69,,,,Undefined,Percentage of clients (%),3.351201111772881
+2018/19,Alcohol only,70+,,,,Undefined,Percentage of clients (%),2.257957779101317
+2018/19,,,Male,,,Undefined,Percentage of clients (%),69.05323745298246
+2018/19,Opiate,,Male,,,Undefined,Percentage of clients (%),72.80203081983625
+2018/19,Non-opiate only,,Male,,,Undefined,Percentage of clients (%),71.6942233950439
+2018/19,Non-opiate and alcohol,,Male,,,Undefined,Percentage of clients (%),72.83026785089866
+2018/19,Alcohol only,,Male,,,Undefined,Percentage of clients (%),59.83720468532857
+2018/19,,,Female,,,Undefined,Percentage of clients (%),30.94676254701753
+2018/19,Opiate,,Female,,,Undefined,Percentage of clients (%),27.19796918016375
+2018/19,Non-opiate only,,Female,,,Undefined,Percentage of clients (%),28.30577660495609
+2018/19,Non-opiate and alcohol,,Female,,,Undefined,Percentage of clients (%),27.169732149101332
+2018/19,Alcohol only,,Female,,,Undefined,Percentage of clients (%),40.16279531467143
+2018/19,,,,White British,,Undefined,Percentage of clients (%),83.83825475102236
+2018/19,,,,Other White,,Undefined,Percentage of clients (%),3.960563507337022
+2018/19,,,,Not stated,,Undefined,Percentage of clients (%),1.7372804907385135
+2018/19,,,,White Irish,,Undefined,Percentage of clients (%),1.2362430839547751
+2018/19,,,,Indian,,Undefined,Percentage of clients (%),1.104687875872023
+2018/19,,,,Caribbean,,Undefined,Percentage of clients (%),1.0058335337984123
+2018/19,,,,White and Black Caribbean,,Undefined,Percentage of clients (%),0.9272762809718548
+2018/19,,,,Pakistani,,Undefined,Percentage of clients (%),0.8708954775078181
+2018/19,,,,Other Asian,,Undefined,Percentage of clients (%),0.855860596584075
+2018/19,,,,Other,,Undefined,Percentage of clients (%),0.7348298051479433
+2018/19,,,,Other Black,,Undefined,Percentage of clients (%),0.6397341833052682
+2018/19,,,,African,,Undefined,Percentage of clients (%),0.6352237190281453
+2018/19,,,,Other Mixed,,Undefined,Percentage of clients (%),0.6066574452730334
+2018/19,,,,Bangladeshi,,Undefined,Percentage of clients (%),0.4619467163820063
+2018/19,,,,White and Asian,,Undefined,Percentage of clients (%),0.29731477026701947
+2018/19,,,,White and Black African,,Undefined,Percentage of clients (%),0.23228891027183063
+2018/19,,,,Chinese,,Undefined,Percentage of clients (%),0.03345261005532836
+2018/19,,,,Unknown,,Undefined,Percentage of clients (%),0.14771770507577578
+2018/19,Opiate,,,White British,,Undefined,Percentage of clients (%),84.13454232308393
+2018/19,Opiate,,,Other White,,Undefined,Percentage of clients (%),3.9859031602104396
+2018/19,Opiate,,,Not stated,,Undefined,Percentage of clients (%),1.2367299384167831
+2018/19,Opiate,,,White Irish,,Undefined,Percentage of clients (%),1.1375889193628923
+2018/19,Opiate,,,Indian,,Undefined,Percentage of clients (%),1.009501617373559
+2018/19,Opiate,,,Caribbean,,Undefined,Percentage of clients (%),0.8539153465955552
+2018/19,Opiate,,,White and Black Caribbean,,Undefined,Percentage of clients (%),0.9270047110075478
+2018/19,Opiate,,,Pakistani,,Undefined,Percentage of clients (%),1.1252867491153293
+2018/19,Opiate,,,Other Asian,,Undefined,Percentage of clients (%),1.0073306461534008
+2018/19,Opiate,,,Other,,Undefined,Percentage of clients (%),0.861875574402802
+2018/19,Opiate,,,Other black,,Undefined,Percentage of clients (%),0.5644525172411298
+2018/19,Opiate,,,African,,Undefined,Percentage of clients (%),0.3039359708221468
+2018/19,Opiate,,,Other mixed,,Undefined,Percentage of clients (%),0.5470847474798642
+2018/19,Opiate,,,Bangladeshi,,Undefined,Percentage of clients (%),0.6599752509280902
+2018/19,Opiate,,,White and Asian,,Undefined,Percentage of clients (%),0.31840911228986807
+2018/19,Opiate,,,White and Black African,,Undefined,Percentage of clients (%),0.2062422659150282
+2018/19,Opiate,,,Chinese,,Undefined,Percentage of clients (%),0.02677531171528436
+2018/19,Opiate,,,Unknown,,Undefined,Percentage of clients (%),0.0919044483200301
+2018/19,Non-opiate only,,,White British,,Undefined,Percentage of clients (%),80.3029049077216
+2018/19,Non-opiate only,,,Other White,,Undefined,Percentage of clients (%),3.600099313084499
+2018/19,Non-opiate only,,,Not stated,,Undefined,Percentage of clients (%),2.640072829595299
+2018/19,Non-opiate only,,,White Irish,,Undefined,Percentage of clients (%),0.695191591492179
+2018/19,Non-opiate only,,,Indian,,Undefined,Percentage of clients (%),0.6827774559298188
+2018/19,Non-opiate only,,,Caribbean,,Undefined,Percentage of clients (%),2.102126955226351
+2018/19,Non-opiate only,,,White and Black Caribbean,,Undefined,Percentage of clients (%),1.6841843912935528
+2018/19,Non-opiate only,,,Pakistani,,Undefined,Percentage of clients (%),1.2662418273607547
+2018/19,Non-opiate only,,,Other Asian,,Undefined,Percentage of clients (%),0.8151949019283291
+2018/19,Non-opiate only,,,Other,,Undefined,Percentage of clients (%),0.8317470826781428
+2018/19,Non-opiate only,,,Other Black,,Undefined,Percentage of clients (%),1.2662418273607547
+2018/19,Non-opiate only,,,African,,Undefined,Percentage of clients (%),1.2289994206736736
+2018/19,Non-opiate only,,,Other Mixed,,Undefined,Percentage of clients (%),1.1627906976744187
+2018/19,Non-opiate only,,,Bangladeshi,,Undefined,Percentage of clients (%),0.508979558056774
+2018/19,Non-opiate only,,,White and Asian,,Undefined,Percentage of clients (%),0.4055284283704378
+2018/19,Non-opiate only,,,White and Black African,,Undefined,Percentage of clients (%),0.3765621120582637
+2018/19,Non-opiate only,,,Chinese,,Undefined,Percentage of clients (%),0.08276090374906894
+2018/19,Non-opiate only,,,Unknown,,Undefined,Percentage of clients (%),0.2400066208722999
+2018/19,Non-opiate and alcohol,,,White British,,Undefined,Percentage of clients (%),83.16981397475121
+2018/19,Non-opiate and alcohol,,,Other White,,Undefined,Percentage of clients (%),3.2457713542216124
+2018/19,Non-opiate and alcohol,,,Not stated,,Undefined,Percentage of clients (%),1.979815029714808
+2018/19,Non-opiate and alcohol,,,White Irish,,Undefined,Percentage of clients (%),0.9565003340718078
+2018/19,Non-opiate and alcohol,,,Indian,,Undefined,Percentage of clients (%),1.121777965326863
+2018/19,Non-opiate and alcohol,,,Caribbean,,Undefined,Percentage of clients (%),1.6984914020466295
+2018/19,Non-opiate and alcohol,,,White and Black Caribbean,,Undefined,Percentage of clients (%),1.318704504694588
+2018/19,Non-opiate and alcohol,,,Pakistani,,Undefined,Percentage of clients (%),0.583746527411471
+2018/19,Non-opiate and alcohol,,,Other Asian,,Undefined,Percentage of clients (%),0.6224285262158455
+2018/19,Non-opiate and alcohol,,,Other,,Undefined,Percentage of clients (%),0.5802299820656187
+2018/19,Non-opiate and alcohol,,,Other Black,,Undefined,Percentage of clients (%),0.9811161514927734
+2018/19,Non-opiate and alcohol,,,African,,Undefined,Percentage of clients (%),1.1323276013644195
+2018/19,Non-opiate and alcohol,,,Other Mixed,,Undefined,Percentage of clients (%),0.8474874283503886
+2018/19,Non-opiate and alcohol,,,Bangladeshi,,Undefined,Percentage of clients (%),0.2672574462847699
+2018/19,Non-opiate and alcohol,,,White and Asian,,Undefined,Percentage of clients (%),0.3622041706227802
+2018/19,Non-opiate and alcohol,,,White and Black African,,Undefined,Percentage of clients (%),0.3375883532018145
+2018/19,Non-opiate and alcohol,,,Chinese,,Undefined,Percentage of clients (%),0.024615817420965642
+2018/19,Non-opiate and alcohol,,,Unknown,,Undefined,Percentage of clients (%),0.28835671835988325
+2018/19,Alcohol only,,,White British,,Undefined,Percentage of clients (%),84.68202715990326
+2018/19,Alcohol only,,,Other White,,Undefined,Percentage of clients (%),4.299875096335273
+2018/19,Alcohol only,,,Not stated,,Undefined,Percentage of clients (%),2.27484121289431
+2018/19,Alcohol only,,,White Irish,,Undefined,Percentage of clients (%),1.6968295729357676
+2018/19,Alcohol only,,,Indian,,Undefined,Percentage of clients (%),1.408488134151851
+2018/19,Alcohol only,,,Caribbean,,Undefined,Percentage of clients (%),0.6710250073081931
+2018/19,Alcohol only,,,White and Black Caribbean,,Undefined,Percentage of clients (%),0.5368200058465545
+2018/19,Alcohol only,,,Pakistani,,Undefined,Percentage of clients (%),0.3853410933056951
+2018/19,Alcohol only,,,Other Asian,,Undefined,Percentage of clients (%),0.6789975816524488
+2018/19,Alcohol only,,,Other,,Undefined,Percentage of clients (%),0.5288474315022987
+2018/19,Alcohol only,,,Other Black,,Undefined,Percentage of clients (%),0.44779292566903184
+2018/19,Alcohol only,,,African,,Undefined,Percentage of clients (%),0.86502431635175
+2018/19,Alcohol only,,,Other Mixed,,Undefined,Percentage of clients (%),0.4464641632783226
+2018/19,Alcohol only,,,Bangladeshi,,Undefined,Percentage of clients (%),0.15679396210369662
+2018/19,Alcohol only,,,White and Asian,,Undefined,Percentage of clients (%),0.19931435860639402
+2018/19,Alcohol only,,,White and Black African,,Undefined,Percentage of clients (%),0.19399930904355683
+2018/19,Alcohol only,,,Chinese,,Undefined,Percentage of clients (%),0.03321905976773233
+2018/19,Alcohol only,,,Unknown,,Undefined,Percentage of clients (%),0.16742406122937098
+2018/19,,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),67.8087890477271
+2018/19,,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),25.101732092882536
+2018/19,,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),7.089478859390363
+2018/19,Opiate,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),67.16037015836672
+2018/19,Opiate,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),26.450104941804998
+2018/19,Opiate,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),6.3895248998282765
+2018/19,Non-opiate only,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),66.65157859001923
+2018/19,Non-opiate only,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),23.113047414280867
+2018/19,Non-opiate only,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),10.235373995699899
+2018/19,Non-opiate and alcohol,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),65.84219638882018
+2018/19,Non-opiate and alcohol,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),25.337620578778136
+2018/19,Non-opiate and alcohol,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),8.820183032401681
+2018/19,Alcohol only,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),69.47683850896112
+2018/19,Alcohol only,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),24.602523237837115
+2018/19,Alcohol only,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),5.920638253201763
