@@ -107,9 +107,9 @@ Year,Units,Substance,Age,Sex,Ethnic group,Disability status,Observation status,U
 2016/17,Number of clients,Opiate,,,Pakistani,,Undefined,Number of clients,1614.0
 2016/17,Number of clients,Opiate,,,Other Asian,,Undefined,Number of clients,1423.0
 2016/17,Number of clients,Opiate,,,Other,,Undefined,Number of clients,1243.0
-2016/17,Number of clients,Opiate,,,Other black,,Undefined,Number of clients,795.0
+2016/17,Number of clients,Opiate,,,Other Black,,Undefined,Number of clients,795.0
 2016/17,Number of clients,Opiate,,,African,,Undefined,Number of clients,414.0
-2016/17,Number of clients,Opiate,,,Other mixed,,Undefined,Number of clients,695.0
+2016/17,Number of clients,Opiate,,,Other Mixed,,Undefined,Number of clients,695.0
 2016/17,Number of clients,Opiate,,,Bangladeshi,,Undefined,Number of clients,979.0
 2016/17,Number of clients,Opiate,,,White and Asian,,Undefined,Number of clients,418.0
 2016/17,Number of clients,Opiate,,,White and Black African,,Undefined,Number of clients,262.0
@@ -292,9 +292,9 @@ Year,Units,Substance,Age,Sex,Ethnic group,Disability status,Observation status,U
 2017/18,Number of clients,Opiate,,,Pakistani,,Undefined,Number of clients,1514.0
 2017/18,Number of clients,Opiate,,,Other Asian,,Undefined,Number of clients,1349.0
 2017/18,Number of clients,Opiate,,,Other,,Undefined,Number of clients,1208.0
-2017/18,Number of clients,Opiate,,,Other black,,Undefined,Number of clients,779.0
+2017/18,Number of clients,Opiate,,,Other Black,,Undefined,Number of clients,779.0
 2017/18,Number of clients,Opiate,,,African,,Undefined,Number of clients,401.0
-2017/18,Number of clients,Opiate,,,Other mixed,,Undefined,Number of clients,742.0
+2017/18,Number of clients,Opiate,,,Other Mixed,,Undefined,Number of clients,742.0
 2017/18,Number of clients,Opiate,,,Bangladeshi,,Undefined,Number of clients,928.0
 2017/18,Number of clients,Opiate,,,White and Asian,,Undefined,Number of clients,415.0
 2017/18,Number of clients,Opiate,,,White and Black African,,Undefined,Number of clients,277.0
@@ -477,9 +477,9 @@ Year,Units,Substance,Age,Sex,Ethnic group,Disability status,Observation status,U
 2018/19,Number of clients,Opiate,,,Pakistani,,Undefined,Number of clients,1555.0
 2018/19,Number of clients,Opiate,,,Other Asian,,Undefined,Number of clients,1392.0
 2018/19,Number of clients,Opiate,,,Other,,Undefined,Number of clients,1191.0
-2018/19,Number of clients,Opiate,,,Other black,,Undefined,Number of clients,780.0
+2018/19,Number of clients,Opiate,,,Other Black,,Undefined,Number of clients,780.0
 2018/19,Number of clients,Opiate,,,African,,Undefined,Number of clients,420.0
-2018/19,Number of clients,Opiate,,,Other mixed,,Undefined,Number of clients,756.0
+2018/19,Number of clients,Opiate,,,Other Mixed,,Undefined,Number of clients,756.0
 2018/19,Number of clients,Opiate,,,Bangladeshi,,Undefined,Number of clients,912.0
 2018/19,Number of clients,Opiate,,,White and Asian,,Undefined,Number of clients,440.0
 2018/19,Number of clients,Opiate,,,White and Black African,,Undefined,Number of clients,285.0
@@ -554,6 +554,7 @@ Year,Units,Substance,Age,Sex,Ethnic group,Disability status,Observation status,U
 2018/19,Number of clients,Alcohol only,,,,No limiting long-term illness or disability,Undefined,Number of clients,36401.0
 2018/19,Number of clients,Alcohol only,,,,Limiting long-term illness or disability,Undefined,Number of clients,12890.0
 2018/19,Number of clients,Alcohol only,,,,Not stated and inconsistent/missing,Undefined,Number of clients,3102.0
+2016/17,Percentage of clients (%),,,,,,Undefined,Percentage of clients (%),100.0
 2016/17,Percentage of clients (%),Opiate,,,,,Undefined,Percentage of clients (%),52.37300432819978
 2016/17,Percentage of clients (%),Non-opiate only,,,,,Undefined,Percentage of clients (%),8.77827536786124
 2016/17,Percentage of clients (%),Non-opiate and alcohol,,,,,Undefined,Percentage of clients (%),10.093890840728681
@@ -661,9 +662,9 @@ Year,Units,Substance,Age,Sex,Ethnic group,Disability status,Observation status,U
 2016/17,Percentage of clients (%),Opiate,,,Pakistani,,Undefined,Percentage of clients (%),1.1331325428083996
 2016/17,Percentage of clients (%),Opiate,,,Other Asian,,Undefined,Percentage of clients (%),0.9990381712616805
 2016/17,Percentage of clients (%),Opiate,,,Other,,Undefined,Percentage of clients (%),0.8726665122124166
-2016/17,Percentage of clients (%),Opiate,,,Other black,,Undefined,Percentage of clients (%),0.5581414941342489
+2016/17,Percentage of clients (%),Opiate,,,Other Black,,Undefined,Percentage of clients (%),0.5581414941342489
 2016/17,Percentage of clients (%),Opiate,,,African,,Undefined,Percentage of clients (%),0.29065481581330693
-2016/17,Percentage of clients (%),Opiate,,,Other mixed,,Undefined,Percentage of clients (%),0.48793501688465774
+2016/17,Percentage of clients (%),Opiate,,,Other Mixed,,Undefined,Percentage of clients (%),0.48793501688465774
 2016/17,Percentage of clients (%),Opiate,,,Bangladeshi,,Undefined,Percentage of clients (%),0.6873214122734963
 2016/17,Percentage of clients (%),Opiate,,,White and Asian,,Undefined,Percentage of clients (%),0.2934630749032906
 2016/17,Percentage of clients (%),Opiate,,,White and Black African,,Undefined,Percentage of clients (%),0.18394097039392854
@@ -738,6 +739,7 @@ Year,Units,Substance,Age,Sex,Ethnic group,Disability status,Observation status,U
 2016/17,Percentage of clients (%),Alcohol only,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),66.00414583587367
 2016/17,Percentage of clients (%),Alcohol only,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),17.903304475064015
 2016/17,Percentage of clients (%),Alcohol only,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),16.307551870376358
+2017/18,Percentage of clients (%),,,,,,Undefined,Percentage of clients (%),100.0
 2017/18,Percentage of clients (%),Opiate,,,,,Undefined,Percentage of clients (%),52.605909311077156
 2017/18,Percentage of clients (%),Non-opiate only,,,,,Undefined,Percentage of clients (%),8.841611088341592
 2017/18,Percentage of clients (%),Non-opiate and alcohol,,,,,Undefined,Percentage of clients (%),10.314840344275122
@@ -845,9 +847,9 @@ Year,Units,Substance,Age,Sex,Ethnic group,Disability status,Observation status,U
 2017/18,Percentage of clients (%),Opiate,,,Pakistani,,Undefined,Percentage of clients (%),1.0993160134183355
 2017/18,Percentage of clients (%),Opiate,,,Other Asian,,Undefined,Percentage of clients (%),0.9795094465662713
 2017/18,Percentage of clients (%),Opiate,,,Other,,Undefined,Percentage of clients (%),0.8771292894381435
-2017/18,Percentage of clients (%),Opiate,,,Other black,,Undefined,Percentage of clients (%),0.5656322156227763
+2017/18,Percentage of clients (%),Opiate,,,Other Black,,Undefined,Percentage of clients (%),0.5656322156227763
 2017/18,Percentage of clients (%),Opiate,,,African,,Undefined,Percentage of clients (%),0.29116626247077443
-2017/18,Percentage of clients (%),Opiate,,,Other mixed,,Undefined,Percentage of clients (%),0.5387665006317074
+2017/18,Percentage of clients (%),Opiate,,,Other Mixed,,Undefined,Percentage of clients (%),0.5387665006317074
 2017/18,Percentage of clients (%),Opiate,,,Bangladeshi,,Undefined,Percentage of clients (%),0.6738211759922161
 2017/18,Percentage of clients (%),Opiate,,,White and Asian,,Undefined,Percentage of clients (%),0.30133166814307083
 2017/18,Percentage of clients (%),Opiate,,,White and Black African,,Undefined,Percentage of clients (%),0.20112981223043525
@@ -922,6 +924,7 @@ Year,Units,Substance,Age,Sex,Ethnic group,Disability status,Observation status,U
 2017/18,Percentage of clients (%),Alcohol only,,,,No limiting long-term illness or disability,Undefined,Percentage of clients (%),69.23168035375869
 2017/18,Percentage of clients (%),Alcohol only,,,,Limiting long-term illness or disability,Undefined,Percentage of clients (%),21.373578648136448
 2017/18,Percentage of clients (%),Alcohol only,,,,Not stated and inconsistent/missing,Undefined,Percentage of clients (%),9.394740998104863
+2018/19,Percentage of clients (%),,,,,,Undefined,Percentage of clients (%),100.0
 2018/19,Percentage of clients (%),Opiate,,,,,Undefined,Percentage of clients (%),52.13214489414765
 2018/19,Percentage of clients (%),Non-opiate only,,,,,Undefined,Percentage of clients (%),9.041159212826793
 2018/19,Percentage of clients (%),Non-opiate and alcohol,,,,,Undefined,Percentage of clients (%),10.660910863333221
@@ -1029,9 +1032,9 @@ Year,Units,Substance,Age,Sex,Ethnic group,Disability status,Observation status,U
 2018/19,Percentage of clients (%),Opiate,,,Pakistani,,Undefined,Percentage of clients (%),1.1252867491153293
 2018/19,Percentage of clients (%),Opiate,,,Other Asian,,Undefined,Percentage of clients (%),1.0073306461534008
 2018/19,Percentage of clients (%),Opiate,,,Other,,Undefined,Percentage of clients (%),0.861875574402802
-2018/19,Percentage of clients (%),Opiate,,,Other black,,Undefined,Percentage of clients (%),0.5644525172411298
+2018/19,Percentage of clients (%),Opiate,,,Other Black,,Undefined,Percentage of clients (%),0.5644525172411298
 2018/19,Percentage of clients (%),Opiate,,,African,,Undefined,Percentage of clients (%),0.3039359708221468
-2018/19,Percentage of clients (%),Opiate,,,Other mixed,,Undefined,Percentage of clients (%),0.5470847474798642
+2018/19,Percentage of clients (%),Opiate,,,Other Mixed,,Undefined,Percentage of clients (%),0.5470847474798642
 2018/19,Percentage of clients (%),Opiate,,,Bangladeshi,,Undefined,Percentage of clients (%),0.6599752509280902
 2018/19,Percentage of clients (%),Opiate,,,White and Asian,,Undefined,Percentage of clients (%),0.31840911228986807
 2018/19,Percentage of clients (%),Opiate,,,White and Black African,,Undefined,Percentage of clients (%),0.2062422659150282
